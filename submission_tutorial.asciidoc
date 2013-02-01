@@ -22,8 +22,15 @@ Once you've got an account, fork (or copy) the main project into your account.  
 
 image::https://s3.amazonaws.com/orm-atlas-media/training_click_fork.png[]
 
+The following screen will appear while GitHub copies the repository to your account:
+
+image::https://s3.amazonaws.com/orm-atlas-media/training_forking.png[]
 
 === Navigate to the "contributions" directory
+
+Once the repository is forked to your account, you will need to navigate to the "contributions" directory.  All you need to do is click on the directory name in the list of files.
+
+image::https://s3.amazonaws.com/orm-atlas-media/tutorial_click_contributions.png[]
 
 === Click the "+" button next to the directory name to fork the project and create a new file
 
