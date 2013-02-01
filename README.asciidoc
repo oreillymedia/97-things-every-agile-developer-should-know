@@ -1,0 +1,23 @@
+== 97 Things Every Agile Software Developer Should Know
+
+Welcome to the home page for the _97 Things Every Agile Programmer Should Know_ project, pearls of wisdom for programmers collected from leading practitioners. You can read through the Contributions Appearing in the Book (they're at the top level directory) plus the Other Edited Contributions, browse Contributions in Progress, view the list of Contributors, and also learn How to Become a Contributor. If you would simply like to comment on a contribution, please also read How to Become a Contributor as some of it applies to you.
+
+There is no overarching narrative: The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance, etc.
+
+* Contributor guidelines
+* How to contribute
+* Contributor agreement
+
+=== How to Contribute
+
+Read the sample contribution::
+   We've provided an <<sample_contribution, sample contribution>> to provide further guidelines on content style and to show you an example of what you will see when your are ready to add your own tip/axiom/pearl/guideline/contribution. Reading this example contribution won't take long, but it clarifies a number of important points.
+
+Create an GitHub account::
+   To create and edit a page or to comment on an existing page, you will need to create an account on GitHub. If you don't have one already, then go to the link::https://github.com/signup/free[GitHub Signup page].  It's free.
+
+Add your contribution in the "contributions" directory::
+  
+Be sure to provide an author's profile, as shown in the sample contribution::
+   When making a contribution, please also include an author profile page. This is simply a page named after you (i.e., .../Firstname_Lastname) and that holds some details about you. Here is a Contributor Profile Outline that offers some guidance and a starting point from which you can copy and paste. You may also want to take a look at other contributors' profiles to get a feel for what you should (or should not) included. Here's mine.
+
