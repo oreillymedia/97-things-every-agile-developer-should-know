@@ -2,14 +2,14 @@
 
 Welcome to the home page for the _97 Things Every Agile Programmer Should Know_ project, pearls of wisdom for programmers collected from leading Agile practitioners.  There is no overarching narrative: The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance, etc.
 
-* <<contributor_guidelines,Contributor guidelines>>
+*  https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/contributor_guidelines.asciidoc[Contributor guidelines]
 * Contributor agreement
 
 === How to Contribute
 
 ==== Read the contributor guidelines.
 
-The <<contributor_guidelines, Contributor Guidelines>> has an overview of the style, length, format, and other details we're looking for from the contributions.  The tl;dr is:
+The https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/contributor_guidelines.asciidoc[Contributor Guidelines] has an overview of the style, length, format, and other details we're looking for from the contributions.  The tl;dr is:
 
 * Conversational tone.  Be professional, not professorial.
 * 400 - 500 words
@@ -19,11 +19,11 @@ The <<contributor_guidelines, Contributor Guidelines>> has an overview of the st
 
 ==== Review the sample contribution
 
-We've provided a <<sample_contribution, sample contribution>> to provide an example of the what we're looking for, and to show you an example of what you will see when your are ready to add your own tip/axiom/pearl/guideline/contribution. Reading this example contribution won't take long, and is good practice.
+We've provided a https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/contributions/SAMPLE_CONTRIBUTION.asciidoc[sample contribution] to provide an example of the what we're looking for, and to show you an example of what you will see when your are ready to add your own tip/axiom/pearl/guideline/contribution. Reading this example contribution won't take long, and is good practice.
 
 ==== Fork this repository and add your submission to the "contributions" directory.
 
-If this  sounds like greek to you, then check out the <<submission_tutorial, Submission Tutorial>>.
+If this  sounds like greek to you, then check out the https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/submission_tutorial.asciidoc[Submission Tutorial].
 
 ==== Send us a pull request when your contribution is as close to perfect as you can get it.
 
