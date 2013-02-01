@@ -1,0 +1,20 @@
+[[submission_tutorial]]
+== Submission Tutorial
+
+=== Create a GitHub account
+
+   To create and edit a page or to comment on an existing page, you will need to create an account on GitHub. If you don't have one already, then go to the link::https://github.com/signup/free[GitHub Signup page].  It's free.
+
+If you're new to git and GitHub and just want to keep things as simple as possible, this tutorial will give you a quick and easy way to make your contribution.
+
+=== Add a new file in the "contributions" directory
+
+
+
+=== Format your file using AsciiDoc
+
+
+=== Submit a pull request
+
+
+=== Engage in back-and-forth with your editor
