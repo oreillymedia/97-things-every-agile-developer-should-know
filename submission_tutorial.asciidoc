@@ -9,6 +9,7 @@ If you're new to git and GitHub and just want to keep things as simple as possib
 
 === Add a new file in the "contributions" directory
 
+image::https://s3.amazonaws.com/orm-atlas-media/tutorial_add_a_file.png[]
 
 
 === Format your file using AsciiDoc

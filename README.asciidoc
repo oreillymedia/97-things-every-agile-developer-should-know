@@ -11,7 +11,7 @@ Welcome to the home page for the _97 Things Every Agile Programmer Should Know_ 
 
 The <<contributor_guidelines, Contributor Guidelines>> has an overview of the style, length, format, and other details we're looking for from the contributions.  The tl;dr is:
 
-* Conversational tone.  (professional, not professorial)
+* Conversational tone.  Be professional, not professorial.
 * 400 - 500 words
 * AsciiDoc format
 * Short biography and a photo
