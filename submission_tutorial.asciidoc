@@ -32,20 +32,29 @@ Once the repository is forked to your account, you will need to navigate to the 
 
 image::https://s3.amazonaws.com/orm-atlas-media/tutorial_click_contributions.png[]
 
-=== Click the "+" button next to the directory name to fork the project and create a new file
+=== Click the "+" button next to the directory name to create a new file
 
-You will see a message to "fork this project and create a new file". 
-
+Locate the small "\+" sign next to the "contributions" directory name.  (A tooltip will appear that says "Create a new file here" when you hover your mouse above it.)  Click the "\+" button:
 
 image::https://s3.amazonaws.com/orm-atlas-media/tutorial_add_a_file.png[]
 
-
 === Name the file and enter your title
 
+In the new screen: 
+
+* Enter a name for the file.  You should name the file using the convention using your first and last name with an ".asciidoc" at the end.  For example, "andrew_odewahn.asciidoc".
+* Enter the title in the editing box; it should be prefaced with two "==" signs.  For example, "== Always Foo the Bar"
+* Once you've entered the filename and title, the "Commit Changes" button at the bottom of the screen will activate.  Click the button to save your file.
+
+You will see something like this:
 
 image::https://s3.amazonaws.com/orm-atlas-media/tutorial_naming_a_file.png[]
 
 === Edit your file using AsciiDoc
+
+Once you've got the file created, you can start editing it at your leisure.  To edit the file, all you have to do is click its name in the direcotry listing in GitHub and then press the "Edit" button:
+
+image::https://s3.amazonaws.com/orm-atlas-media/tutorial_edit.png[]
 
 
 === Submit a pull request
