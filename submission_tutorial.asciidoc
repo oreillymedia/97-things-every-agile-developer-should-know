@@ -69,6 +69,7 @@ Before you submit your request, make sure that you have:
 
 Your biography should look like this:
 
+[source, asciidoc]
 ----
 // Need to have an example here
 ----
