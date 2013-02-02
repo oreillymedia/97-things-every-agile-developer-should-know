@@ -11,6 +11,7 @@ Instead of preaching from on high, I want to pick on a particular API design "st
 
 While well intended, such arguments are prone to decrease the  readability of code using the API. A method invocation like:
 
+[source, java]
 ----
    parser.processNodes(text, false);
 ----
