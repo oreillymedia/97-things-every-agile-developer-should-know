@@ -4,7 +4,7 @@
 Each contributor is asked to provide one or more items (tips or bits of wisdom) that each have a title and associated discussion. 
 
 Please read the sample contribution.:: 
-   Already mentioned, but please look at the <<sample_contribution, sample contribution>>. If you are unfamiliar with AsciiDoc markup, take a look at the underlying markup of the page. You may also want to look at the linkhttp://powerman.name/doc/asciidoc[AsciiDoc cheatsheet].
+   Already mentioned, but please look at the <<sample_contribution, sample contribution>>. If you are unfamiliar with AsciiDoc markup, take a look at the underlying markup of the page. You may also want to look at the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet].
 
 Creative Commons license.::
    All contributions made to this site are required to be made under the link::http://creativecommons.org/licenses/by/3.0/us/[Creative Commons Attribution 3.0 license]. This means that by making a content contribution, you are agreeing that it is licensed to us and to others under this license. If you do not want your content to be available under this license, you should not contribute it.

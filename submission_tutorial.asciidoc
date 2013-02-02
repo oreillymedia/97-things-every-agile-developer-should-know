@@ -52,9 +52,11 @@ image::https://s3.amazonaws.com/orm-atlas-media/tutorial_naming_a_file.png[]
 
 === Edit your file using AsciiDoc
 
-Once you've got the file created, you can start editing it at your leisure.  To edit the file, all you have to do is click its name in the direcotry listing in GitHub and then press the "Edit" button:
+Once you've got the file created, you can start editing it at your leisure.  To edit the file, all you have to do is click its name in the directory listing in GitHub and then press the "Edit" button:
 
 image::https://s3.amazonaws.com/orm-atlas-media/tutorial_edit.png[]
+
+Mark up your text using http://powerman.name/doc/asciidoc[AsciiDoc], which is similar to Markdown and other basic wiki-like markup formats.
 
 === Double check your submission and add your biography
 
