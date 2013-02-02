@@ -56,8 +56,34 @@ Once you've got the file created, you can start editing it at your leisure.  To 
 
 image::https://s3.amazonaws.com/orm-atlas-media/tutorial_edit.png[]
 
+=== Double check your submission and add your biography
+
+Before you submit your request, make sure that you have:
+
+* Run a spell check
+* Make sure it's 400-500 words in length
+* Add your biography
+* Check the formatting to make sure it looks OK
+
+Your biography should look like this:
+
+----
+// Need to have an example here
+----
 
 === Submit a pull request
 
+Once you've completed and double checked your submission, you're ready to submit it back to O'Reilly.  This is done by creating a "pull request" that will trigger the review process.  
+
+image::https://s3.amazonaws.com/orm-atlas-media/tutorial_submit_pull_request.png[]
+
+When you submit the pull request, you'll also be able to submit some additional information that will help us track your work:
+
+* A title.  Please enter your name and the title of the piece.  For example, "Andrew Odewahn: Always Foo the Bar"
+* A comment.  Tell us a little bit about your contribution, as well as anything else you think we should know.
+
+image::https://s3.amazonaws.com/orm-atlas-media/tutorial_pull_request_submission_form.png[]
 
 === Engage in back-and-forth with your editor
+
+Once you submit your pull request, the project's editors will begin a back and forth with you in the discussion features.  You might be asked to make some revisions, shorten it, add additional elements, and so forth.
