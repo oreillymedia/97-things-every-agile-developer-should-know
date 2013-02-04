@@ -22,9 +22,7 @@ The metaphor of API as a language can guide us toward better design decisions in
 
 .About the Author
 ****
-Name::
-   Gregor Hophe
-Biography::
-   Gregor Hohpe is a software engineer with Google. He is best known for his thoughts on asynchronous messaging and service-oriented architectures, which he shares in a number of publications, including the seminal book Enterprise Integration Patterns. Find out more about his work at http://www.eaipatterns.com.
+Name:: Gregor Hophe
+Biography:: Gregor Hohpe is a software engineer with Google. He is best known for his thoughts on asynchronous messaging and service-oriented architectures, which he shares in a number of publications, including the seminal book Enterprise Integration Patterns. Find out more about his work at http://www.eaipatterns.com.
 ****
 
