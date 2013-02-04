@@ -58,6 +58,11 @@ image::https://s3.amazonaws.com/orm-atlas-media/tutorial_edit.png[]
 
 Mark up your text using http://powerman.name/doc/asciidoc[AsciiDoc], which is similar to Markdown and other basic wiki-like markup formats.
 
+[WARNING]
+****
+You should also change the line wrapping from "No Wrap" to "Soft Wrap."  Otherwise, all your text will appear on a single line.
+****
+
 === Double check your submission and add your biography
 
 Before you submit your request, make sure that you have:
@@ -71,7 +76,17 @@ Your biography should look like this:
 
 [source, asciidoc]
 ----
-// Need to have an example here
+
+   .About the Author
+   [NOTE]
+   ****
+   Name:: 
+      Gregor Hophe
+   Biography:: 
+      Gregor Hohpe is a software engineer with Google. He is best known for his thoughts on asynchronous messaging 
+      and service-oriented architectures, which he shares in a number of publications, including the seminal book 
+     Enterprise Integration Patterns. Find out more about his work at http://www.eaipatterns.com.
+   ****
 ----
 
 === Submit a pull request
