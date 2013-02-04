@@ -20,3 +20,11 @@ is virtually meaningless without knowing the implementation or at least consulti
 
 The metaphor of API as a language can guide us toward better design decisions in these situations. An API should provide an expressive language, which gives the next layer above sufficient vocabulary to ask and answer useful questions. This does not imply that it should provide exactly one method, or verb, for each question that may be worth asking. A diverse vocabulary allows us to express subtleties in meaning. For example, we prefer to say run instead of +walk(true)+, even though it could be viewed as essentially the same operation, just executed at different speeds. A consistent and well-thought-out API vocabulary makes for expressive and easy-to-understand code in the next layer up. More importantly, a composable vocabulary allows other programmers to use the API in ways you may not have anticipated—a great convenience indeed for the users of the API! Next time you are tempted to lump a few things together into one API method, remember that the English language does not have one word for +MakeUpYourRoomBeQuietAndDoYourHomeWork+, even though it would be really convenient for such a frequently requested operation.
 
+.About the Author
+****
+Name::
+   Gregor Hophe
+Biography::
+   Gregor Hohpe is a software engineer with Google. He is best known for his thoughts on asynchronous messaging and service-oriented architectures, which he shares in a number of publications, including the seminal book Enterprise Integration Patterns. Find out more about his work at http://www.eaipatterns.com.
+****
+
