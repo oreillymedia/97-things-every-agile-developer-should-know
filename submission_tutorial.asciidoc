@@ -1,14 +1,7 @@
 [[submission_tutorial]]
 == Submission Tutorial
 
-If you're new to git and GitHub and just want to keep things as simple as possible, this tutorial will give you a quick and easy way to make your contribution.  If you want to know all about git, the tool on which GitHub is built, try these great resources:
-
-* http://try.github.com/[Try GitHub].  A great interactive tutorial that will give you the basics in a nice, interactive environment.  
-* http://www.youtube.com/watch?v=OFkgSjRnay4[Git in one hour].  Awesome intro video.
-* http://git-scm.com/book[Pro Git].  The online book from Scott Chacon.
-
-But if you just want to keep it short and sweet, here's a way to make your contribution using only the functionality built into GitHub.
-
+If you're new to git and GitHub and just want to keep things as simple as possible, this tutorial will give you a quick and easy way to make your contribution.  Here are the steps you'll need to follow:
 
 === Create a GitHub account
 
@@ -16,7 +9,9 @@ To create and edit a page or to comment on an existing page, you will need to cr
 
 image::https://s3.amazonaws.com/orm-atlas-media/tutorial_github_signup.png[]
 
-=== Fork the project
+GitHub has excellent tools for collaborating and workflow management, and will be the primary way we communicate with you over the course of the project.
+
+=== Copy ("fork") the project
 
 Once you've got an account, fork (GitHub lingo for copying) the main project to your account.  To do this, go to the  https://github.com/oreillymedia/97-things-every-agile-developer-should-know[97 Things repository on GitHub] and click the "Fork" button at the upper right hand side of the screen.
 
