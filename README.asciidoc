@@ -32,8 +32,7 @@ The https://github.com/oreillymedia/97-things-every-agile-developer-should-know/
 ** Work in the master branch (we know this isn't ideal, but there it is)
 ** Don't edit other contributions
 * Submit a pull request when your contribution is as close to perfect as you can get it
-* Engage with the authors and editors in the pull request
 
-==== Send us a pull request when your contribution is as close to perfect as you can get it.
+==== Engage with us in the pull request
 
 Once we receive your pull request, we'll evaluate it for the book.  The editor might ask you to make some modifications, so there will likely be some back and forth.  If we accept your contribution, we'll merge it into the master repository.  
