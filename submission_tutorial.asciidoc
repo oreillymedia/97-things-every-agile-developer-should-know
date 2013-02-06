@@ -15,11 +15,11 @@ GitHub has excellent tools for collaborating and workflow management, and will b
 
 Once you've got an account, fork (GitHub lingo for copying) the main project to your account.  To do this, go to the  https://github.com/oreillymedia/97-things-every-agile-developer-should-know[97 Things repository on GitHub] and click the "Fork" button at the upper right hand side of the screen.
 
-image::https://s3.amazonaws.com/orm-atlas-media/training_click_fork.png[]
+image::https://s3.amazonaws.com/orm-atlas-media/tutorial_click_fork.png[]
 
 The following screen will appear while GitHub copies the repository to your account:
 
-image::https://s3.amazonaws.com/orm-atlas-media/training_forking.png[]
+image::https://s3.amazonaws.com/orm-atlas-media/tutorial_forking.png[]
 
 
 === Click the "+" button next to the directory name to create a new file
