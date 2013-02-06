@@ -2,9 +2,6 @@
 
 Welcome to the home page for the _97 Things Every Agile Developer Should Know_ project, pearls of wisdom for programmers collected from leading Agile practitioners.  There is no overarching narrative: The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance, etc.
 
-*  https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/contributor_guidelines.asciidoc[Contributor guidelines]
-* Contributor agreement
-
 === How to Contribute
 
 If you are interested in contributing to the project, here's what you need to do.
@@ -23,9 +20,19 @@ The https://github.com/oreillymedia/97-things-every-agile-developer-should-know/
 
 We've provided a https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/SAMPLE_CONTRIBUTION.asciidoc[sample contribution] to provide an example of the what we're looking for, and to show you an example of what you will see when your are ready to add your own tip/axiom/pearl/guideline/contribution. Reading this example contribution won't take long, and is good practice.
 
-==== Fork this repository and add your submission to the "contributions" directory.
+==== Submit your contributions
 
-If this  sounds like greek to you, then check out the https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/submission_tutorial.asciidoc[Submission Tutorial].
+The https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/submission_tutorial.asciidoc[Submission Tutorial] provides a step by step process for making a contribution.  The quick version is:
+
+* Sign up for a GitHub account
+* Fork this repo to your new account
+* Add your contribution
+** Create a new file in the root directory that is based on your first name and last name with and extension of "asciidoc."  For example: "mary_jones.asciidoc"
+** Write in http://powerman.name/doc/asciidoc[AsciiDoc] 
+** Work in the master branch (we know this isn't ideal, but there it is)
+** Don't edit other contributions
+* Submit a pull request when your contribution is as close to perfect as you can get it
+* Engage with the authors and editors in the pull request
 
 ==== Send us a pull request when your contribution is as close to perfect as you can get it.
 
