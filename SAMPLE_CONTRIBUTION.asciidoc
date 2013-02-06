@@ -28,5 +28,7 @@ Name::
    Gregor Hophe
 Biography:: 
    Gregor Hohpe is a software engineer with Google. He is best known for his thoughts on asynchronous messaging and service-oriented architectures, which he shares in a number of publications, including the seminal book Enterprise Integration Patterns. Find out more about his work at http://www.eaipatterns.com.
+Image::
+   http://programmer.97things.oreilly.com/wiki/images/5/5b/Gregor_hohpe.jpg
 ****
 

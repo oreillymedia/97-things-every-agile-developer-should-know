@@ -12,8 +12,7 @@ The https://github.com/oreillymedia/97-things-every-agile-developer-should-know/
 
 * Conversational tone.  Be professional, not professorial.
 * 400 - 500 words
-* AsciiDoc format
-* Short biography and a photo
+* Include your name, a short biography, and a link to a photo of you that we'll use in the book
 * link::http://creativecommons.org/licenses/by/3.0/us/[Creative Commons Attribution 3.0 license]
 
 ==== Review the sample contribution
