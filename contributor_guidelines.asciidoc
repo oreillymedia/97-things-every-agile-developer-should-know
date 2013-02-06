@@ -33,8 +33,5 @@ Only submit a pull request when you consider your work complete.::
 Check spelling, word count, and formatting.::
    Such checking seems an obvious part of the professional attention to detail encouraged by the 97 Things books, but it is worth a reminder — sometimes it seems that it is honored more in the breach than in the observance. US spelling is used for the contributions, which should be between 400 and 500 words in length. Formatting can be checked using Show preview (but don't forget to Save page) or by looking at the saved page.
 
-Remember to sign your work.::
-   Your name and the rights message should appear at the bottom of each contribution. A contribution should be able to standalone, so having your name listed by a link on another page is of little use if someone arrives at the page via a more direct route.
-
 Don't link to or discuss other contributions in your own contribution.::
    Each contribution is intended to be standalone. It should not require the reader to read anything else first or, if selected for the book, require the inclusion of another contribution.
