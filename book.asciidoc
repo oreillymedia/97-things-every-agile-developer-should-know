@@ -5,3 +5,5 @@ include::README.asciidoc[]
 include::contributor_guidelines.asciidoc[]
 
 include::submission_tutorial.asciidoc[]
+
+include::SAMPLE_CONTRIBUTION.asciidoc[]
