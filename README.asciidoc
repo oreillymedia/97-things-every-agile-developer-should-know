@@ -1,6 +1,6 @@
 == 97 Things Every Agile Developer Should Know
 
-Welcome to the home page for the _97 Things Every Agile Developer Should Know_ project, pearls of wisdom for programmers collected from leading Agile practitioners.  There is no overarching narrative: The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance, etc.
+Welcome to _97 Things Every Agile Developer Should Know_ , pearls of wisdom for programmers collected from leading Agile practitioners.  There is no overarching narrative: The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance, etc.
 
 === How to Contribute
 
