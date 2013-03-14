@@ -4,8 +4,7 @@ Welcome to _97 Things Every Agile Developer Should Know_ , pearls of wisdom for 
 
 === List of Contributors
 
-Anyone who has https://github.com/oreillymedia/97-things-every-agile-developer-should-know/network/members[forked this project] is a potential contributor. 
-
+Anyone who has https://github.com/oreillymedia/97-things-every-agile-developer-should-know/network/members[forked this project] is a potential contributor. Follow the link to the fork of another contributor to see the changes/updates. For example, click on any forked version of the book to see what the contributor is working on.
 === How to Contribute
 
 If you are interested in contributing to the project, here's what you need to do.
