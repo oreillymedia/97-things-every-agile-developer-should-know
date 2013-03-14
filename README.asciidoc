@@ -2,18 +2,22 @@
 
 Welcome to _97 Things Every Agile Developer Should Know_ , pearls of wisdom for programmers collected from leading Agile practitioners.  There is no overarching narrative: The collection is intended simply to contain multiple and varied perspectives on what it is that contributors to the project feel programmers should know. This can be anything from code-focused advice to culture, from algorithm usage to agile thinking, from implementation know-how to professionalism, from style to substance, etc.
 
+=== List of Contributors
+
+Anyone who has https://github.com/oreillymedia/97-things-every-agile-developer-should-know/network/members[forked this project] is a potential contributor. 
+
 === How to Contribute
 
 If you are interested in contributing to the project, here's what you need to do.
 
-==== Read the contributor guidelines.
+==== Read the contributor guidelines
 
 The https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/contributor_guidelines.asciidoc[Contributor Guidelines] has an overview of the style, length, format, and other details we're looking for from the contributions.  The tl;dr is:
 
-* Conversational tone.  Be professional, not professorial.
-* 400 - 500 words
-* Include your name, a short biography, and a link to a photo of you that we'll use in the book
-* link::http://creativecommons.org/licenses/by/3.0/us/[Creative Commons Attribution 3.0 license]
+* Use a conversational tone.  Be professional, not professorial.
+* Submit 400–500 words.
+* Include your name, a short biography, and a link to a photo of you that we'll use in the book.
+* Be willing to work under a link::http://creativecommons.org/licenses/by/3.0/us/[Creative Commons Attribution 3.0 license].
 
 ==== Review the sample contribution
 
@@ -23,16 +27,16 @@ We've provided a https://github.com/oreillymedia/97-things-every-agile-developer
 
 The https://github.com/oreillymedia/97-things-every-agile-developer-should-know/blob/master/submission_tutorial.asciidoc[Submission Tutorial] provides a step by step process for making a contribution.  The quick version is:
 
-* Sign up for a GitHub account
-* Fork this repo to your new account
-* Add your contribution
-** Work in the master branch (we know this isn't ideal, but there it is)
-** Create a new file in the root directory that is based on your first name and last name with and extension of "asciidoc."  For example: "mary_jones.asciidoc"
-** Write in http://powerman.name/doc/asciidoc[AsciiDoc] 
-** Include your name, bio, and link to an image of you that you'd like us to use in the book
-** Don't edit other people's contributions
-* Submit a pull request when your contribution is as close to perfect as you can get it
+. Sign up for a GitHub account.
+. Fork this repo to your new account.
+. Add your contribution:
+* Work in the master branch.
+* Create a new file in the root directory that is based on your first name and last name with and extension of _.asciidoc_ (e.g., __mary_jones.asciidoc__).
+* Write in http://powerman.name/doc/asciidoc[AsciiDoc].
+* Include your name, bio, and link to an image of you that you'd like us to use in the book.
+* Please don't edit other contributions.
+. Submit a pull request when your contribution is as close to perfect as you can get it.
 
 ==== Engage with us in the discussion
 
-Once we receive your pull request, we'll evaluate it for the book.  The editor might ask you to make some modifications, so there will likely be some back and forth.  If we accept your contribution, we'll merge it into the master repository.  
+Once we receive your pull request, we'll evaluate it for the book. The editor may ask you to make some modifications, so there will likely be some back and forth.  If we accept your contribution, we'll merge it into the master repository.
