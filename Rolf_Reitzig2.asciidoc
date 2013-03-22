@@ -1,0 +1,29 @@
+
+==Software Engineering Costs of Quality
+
+Leading software engineering organizations deliver 80% fewer defects and enjoy TWICE the productivity of average ones.  While the average team is fixing problems on a current release leading teams are developing even better features and functionality.
+
+By understanding your organization's cost of quality and how much inefficiencies are costing you will be able to shift resources and attention towards prevention.  The result:  You’ll see an increase in not only software quality but also productivity, customer satisfaction and employee morale.  Defects delivered to the field, employee turnover and development cycle times will be significantly reduced.
+
+This presentation will introduce attendees to the concept of software engineering costs of quality, quantify the differences in quality and productivity between average and leading software organizations and describe how software automation solutions improve quality and productivity and reduce costs of quality.
+ 
+
+About the Author
+ 
+
+Name
+ 
+
+Rolf W. Reitzig
+ 
+
+Biography
+ 
+
+Mr. Rolf W. Reitzig is the Director of ALM Transformation for Avnet Services. Mr. Reitzig has 20 years of practical experience in software engineering and has helped dozens of Fortune 500 companies improve software engineering quality, productivity and project results through the implementation of best practices like Agile, RUP, and CMMI, as well as leading ALM solutions from IBM. He has worked closely with the Software Engineering Institute in understanding and communicating the return on investment of process and tool standardization efforts to the software development community. Mr. Reitzig speaks regularly at international conferences, seminars and user groups sponsored by IBM Rational, the SEI, and many others. He advises executive and senior managers, helping them understand the economics of engineering improvement and its implications on organizational change. Mr. Reitzig holds a Bachelor’s degree in Computer Science and an MBA in Finance from the University of Colorado and is on the Board of Advisors for the Computer Science Department at Metropolitan State University in Denver, CO.
+ 
+
+Image
+ 
+
+http://www.linkedin.com/profile/view?id=30259298&goback=%2Enmp_*1_*1_*1_*1_*1_*1_*1_*1_*1&trk=spm_pic
