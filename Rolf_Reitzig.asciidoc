@@ -1,1 +1,16 @@
 ==Untethered Activities
+
+About the Author
+
+Name
+
+Rolf W. Reitzig
+
+Biography
+
+Mr. Rolf W. Reitzig is the Director of ALM Transformation for Avnet Services.  Mr. Reitzig has 20 years of practical experience in software engineering and has helped dozens of Fortune 500 companies improve software engineering quality, productivity and project results through the implementation of best practices like Agile, RUP, and CMMI, as well as leading ALM solutions from IBM.  He has worked closely with the Software Engineering Institute in understanding and communicating the return on investment of process and tool standardization efforts to the software development community.   Mr. Reitzig speaks regularly at international conferences, seminars and user groups sponsored by IBM Rational, the SEI, and many others.  He advises executive and senior managers, helping them understand the economics of engineering improvement and its implications on organizational change.  Mr. Reitzig holds a Bachelor’s degree in Computer Science and an MBA in Finance from the University of Colorado and is on the Board of Advisors for the Computer Science Department at Metropolitan State University in Denver, CO.
+
+Image
+
+http://www.linkedin.com/profile/view?id=30259298&goback=%2Enmp_*1_*1_*1_*1_*1_*1_*1_*1_*1&trk=spm_pic
+
