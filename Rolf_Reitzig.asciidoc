@@ -1,36 +1,37 @@
 ==Untethered Activities
 
-Many estimation improvement techniques focus on the need to estimate "size" or some other work product parameter.  Typically, the root cause of failures in estimating aren't related to mis-estimating size, etc.  Failure to account for "untethered activities" is.  This session will introduce the notion of untethered activities,  how not accounting for them severely affects project performance versus estimates, and what steps you can take to prevent them from appearing on your projects and thereby, improve project results.
+Its no secret that many software project miss their planned delivery dates.  So why is this happening?
 
-This presentation begins with a description of the the difficulties in managing software schedules and some of the statistics that demonstrate the difficulties.
+Typical suspects include:
 
-Then, several possible root causes of schedule misses are explored:
-- Senior Management Mandates
-- Scope Changes
-- Poor Estimation
-- Poor Planning/Untethered Activities
-
-Senior Management Mandates occur when stakeholders essentially tell the project when they will deliver without providing them a chance to estimate and plan.  In fact, some managers believe stretch goals are a good way to motivate teams.  Other times, mandates reflect other business problems:
+1) Senior Management Mandates - These occur when executives essentially tell the project when they will deliver without giving them a chance to estimate and plan.  In fact, some managers believe stretch goals are a good way to motivate teams.  Other times, mandates reflect business problems:
 - Competitors have announced a competing product launch, and therefore the project has to match them
-- Customers demand certain features/functionality and executive promise delivery
+- Customers demand certain features/functionality in order to authorize a PO, and executives promise delivery
+2) Scope Changes - Unplanned additions (or deletions) to software functionality that increases the work required to deliver, without any corresponding increase in the time allotted to deliver.  Sometimes, numerous "small" requirements/scope changes are allowed, but they eventually add up to real work and real schedule slips.  "More is more, less is more, the same is more."
+3) Poor Estimation - Flat out poor/incorrect estimation of the work by practitioners.
 
-Scope change problems occur when projects are asked to "suck up" unplanned scope changes.  Sometimes, numerous "small" requirements/scope changes are allowed, but they eventually add up to real work and real schedule slips.
+While all 3 above are perfectly valid and occur frequently, there is one situation that, in my experience, happens a lot but isn't discussed or talked about much.  Its what I refer to as "untethered activities".
 
-Often, project teams attempt to adopt elaborate estimation techniques and tools to improve their project planning and management performance.  But, estimation accuracy doesn't improve.  How can a project estimate activities that aren't in the plan?  Once projecs know all the activities (the process) that go into building systems, better estimation techniques and tools can be implemented.
+Untethered activities are those that must be performed, but are never planned, estimated, or scheduled.  Since these untethered activities must be completed, others are short-sheeted or delayed to ge the job done.  The end result is a delayed schedule, or worse, a poor quality product that requires expensive rework and thus, more delay.  Some typical examples of untethered activities include planning, project/organizational meetings, reviews, unit testing, and development and test environment implementation.
 
-Untethered activities are those that must be performed, but are never planned or scheduled.  Sicne these untethered activities must be completed, others are short-sheeted or delayed to ge the job done.  the end result is a delayed schedule, or worse, a poor quality system that requires expensive rework and thus, more delay.  Some typical examples of untethered activities include planning, project/organizational meetings, reviews, unit testing, and development and test environment implementation.
+A story I like to share involves an Agile project that was consistently missing the deliverables and dates they promised each iteration.  A "rule" was established by the team that any work a team member performed needed a development card tied to it.  At the start of the 4 week iteration, the team estimated their tasks and time associated with completing the tasks via development cards.  By the end of the iteration, a full 4 weeks late, they found that their development cards "exploded" to twice the number originally estimated and twice the work estimated.  Some of the culprits included:
 
-The presentation then goes through an example of an agile project that use development cards to estimate.  At the end of the iteration, they ended up with 50% more development cards than when they started, as work could not be performed without a card.  As a result, the iteration took 50% longer.
+- Establishing CM enviroments
+- Creating and performing builds
+- Getting test environments in place for unit, functional, and system testing
+- Various system administration tasks
 
-The presentation then describes how the CMMI is structured to help plan for and mitigate untethered activities, as well as practical thoughts on eliminating them:
-- Develop standard WBS templates based on organizational processs that account for all the activities projects should undertake
-- Ensuer project schedule/plans account for all activities
-- Utilize PPQA to review schedules/plans prior to their implementation
-- Implement an activity-based time reporting/cost accounting system
+Almost none of the delay was due to tasks being underestimated.  It was due to tasks being completely missed that needed to be done in order to delivery the work promised in the iteration!
 
-In summary, many organizations attempt to establish elaborate estimation techniques to fix schedule problems.  The real issue, initially, is not the estimation technique. Rather, incorporating all the activities that will be executed in plans and schedules is key - eliminate untethered activities!  Beter planning also helps to combat senior management mandates and unplanned scope changes.
+The worst thing about untracked and untethered activities is that they have a profound negative downstream effect.  With too much unplanned work and not enought time, developers under pressure to deliver working code will short-sheet unit and integration testing, leaving those for testers to handle.  When defects are found, product releases are delayed to address quality issues.  Even worse, the product is released, leaving customers to find out how bad the product really is.
 
-If you aren't estimating and tracking all effort associated with a project, you're shooting in the dark!
+<Need picture illustrating this here>
+
+The best way to combat untethered activities is to ask all project team members to brainstorm and plan for all the tasks they and others need to perform in order to complete the requirements for the iteration.  Templates accounting for typical activities associated with iterations and/or various deliverables certainly help.  They provide less experienced team members with guidance while still allowing tasks to be removed if applicable.  Even just understanding the concept of untethered activities makes a big difference!
+
+In summary, incorporating all the activities/tasks that need to be executed in plans and schedules is key - eliminate untethered activities!  Oh, and by the way, better planning also helps to combat senior management mandates and unplanned scope changes - historically banes to developer existences'!
+
+Bottom Line: If you aren't estimating and tracking all effort associated with a project, you're shooting in the dark!
 
 About the Author
 
