@@ -1,27 +1,27 @@
 ==Untethered Activities
 
-Its no secret that many software project miss their planned delivery dates.  So why is this happening?
+Its no secret that many software projects miss their planned delivery dates.  So why is this happening?
 
 Typical suspects include:
 
 1) Senior Management Mandates - These occur when executives essentially tell the project when they will deliver without giving them a chance to estimate and plan.  In fact, some managers believe stretch goals are a good way to motivate teams.  Other times, mandates reflect business problems:
 - Competitors have announced a competing product launch, and therefore the project has to match them
 - Customers demand certain features/functionality in order to authorize a PO, and executives promise delivery
-2) Scope Changes - Unplanned additions (or deletions) to software functionality that increases the work required to deliver, without any corresponding increase in the time allotted to deliver.  Sometimes, numerous "small" requirements/scope changes are allowed, but they eventually add up to real work and real schedule slips.  "More is more, less is more, the same is more."
+2) Scope Changes - Unplanned additions (or deletions) to software functionality that increases the work required to deliver, without any corresponding increase in the time allotted to deliver.  Typically, numerous "small" requirements/scope changes are allowed, but they eventually add up to real work and real schedule slips.  "More is more, less is more, the same is more."
 3) Poor Estimation - Flat out poor/incorrect estimation of the work by practitioners.
 
 While all 3 above are perfectly valid and occur frequently, there is one situation that, in my experience, happens a lot but isn't discussed or talked about much.  Its what I refer to as "untethered activities".
 
-Untethered activities are those that must be performed, but are never planned, estimated, or scheduled.  Since these untethered activities must be completed, others are short-sheeted or delayed to ge the job done.  The end result is a delayed schedule, or worse, a poor quality product that requires expensive rework and thus, more delay.  Some typical examples of untethered activities include planning, project/organizational meetings, reviews, unit testing, and development and test environment implementation.
+Untethered activities are those that must be performed to deliver software functionality, but are never planned, estimated, or scheduled.  Since these untethered activities must be completed, others are short-sheeted or delayed to get the job done.  The end result is a delayed schedule, or worse, a poor quality product that requires expensive rework and thus, more delay.  Some typical examples of untethered activities include planning, project/organizational meetings, reviews, CM, unit testing, and development and test environment implementation.
 
-A story I like to share involves an Agile project that was consistently missing the deliverables and dates they promised each iteration.  A "rule" was established by the team that any work a team member performed needed a development card tied to it.  At the start of the 4 week iteration, the team estimated their tasks and time associated with completing the tasks via development cards.  By the end of the iteration, a full 4 weeks late, they found that their development cards "exploded" to twice the number originally estimated and twice the work estimated.  Some of the culprits included:
+A story I like to share involves an Agile project that was consistently missing the deliverables and dates they promised each iteration.  A "rule" was established by the team that any work a team member performed needed a development card tied to it.  At the start of the 4 week iteration, the team estimated their tasks and time associated with completing the work via development cards.  By the end of the iteration, a full 4 weeks late, they found that their development cards "exploded" to twice the number originally estimated and twice the work estimated.  Some of the culprits included:
 
 - Establishing CM enviroments
 - Creating and performing builds
 - Getting test environments in place for unit, functional, and system testing
 - Various system administration tasks
 
-Almost none of the delay was due to tasks being underestimated.  It was due to tasks being completely missed that needed to be done in order to delivery the work promised in the iteration!
+Almost none of the delay was due to the original tasks being underestimated.  It was due to tasks being completely missed that needed to be done in order to deliver the work promised in the iteration!
 
 The worst thing about untracked and untethered activities is that they have a profound negative downstream effect.  With too much unplanned work and not enought time, developers under pressure to deliver working code will short-sheet unit and integration testing, leaving those for testers to handle.  When defects are found, product releases are delayed to address quality issues.  Even worse, the product is released, leaving customers to find out how bad the product really is.
 
