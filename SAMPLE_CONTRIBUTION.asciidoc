@@ -1,5 +1,5 @@
 [[sample_contribution]]
-== Convenience Is Not an -ility
+== SAMPLE CONTRIBUTION: Convenience Is Not an -ility
 
 MUCH HAS BEEN SAID about the importance and challenges of designing good  APIs. It's difficult to get right the first time and it's even more difficult to change later—sort of like raising children. Most experienced programmers have learned that a good API follows a consistent level of abstraction, exhibits consistency and symmetry, and forms the vocabulary for an expressive language. Alas, being aware of the guiding principles does not automatically translate into appropriate behavior. Eating sweets is bad for you.
 
@@ -31,4 +31,3 @@ Biography::
 Image::
    http://programmer.97things.oreilly.com/wiki/images/5/5b/Gregor_hohpe.jpg
 ****
-
