@@ -1,0 +1,7 @@
+= 97 Things Every Agile Developer Should Know
+
+include::README.asciidoc[]
+
+include::SAMPLE_CONTRIBUTION.asciidoc[]
+
+include::preface.asciidoc[]
