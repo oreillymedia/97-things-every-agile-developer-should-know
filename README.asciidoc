@@ -83,9 +83,7 @@ Biography::
 
 Once you've completed and double checked your submission, you're ready to submit it back to O'Reilly.  This is done by creating a "pull request" that will trigger the review process. 
 
-*Need updated screen shot with Pull Request on right side*
-
-image::images/tutorial_submit_pull_request.png[]
+image::images/tutorial_PullRequest_update.png[]
 
 When you submit the pull request, you'll also be able to submit some additional information that will help us track your work:
 
