@@ -9,15 +9,11 @@ Anyone who has https://github.com/oreillymedia/97-things-every-agile-developer-s
 
 This book is open source, so if you'd like to contribute, make a correction, or otherwise participate in the project, check out https://github.com/oreillymedia/97-things-every-agile-developer-should-know[oreillymedia/97-things-every-agile-developer-should-know] on GitHub for details. If we accept your work, we'll add you to the contributors chapter.
 
-The online version of the book is at http://chimera.labs.oreilly.com/books/1234000001491/index.html[97 Things Every Agile Developer Should Know] on O'Reilly Labs.
-
-
-
 === How to Contribute
 
-If you're new to git and GitHub and just want to keep things as simple as possible, this tutorial will give you a quick and easy way to make your contribution.  Here are the steps you'll need to follow:
+If you're new to git and GitHub and just want to keep things as simple as possible, this tutorial will give you a quick and easy way to make your contribution.  _If you already have an account, please skip ahead to <<Copy("fork")theprojectrepositorytoyouraccount>>_ Here are the steps you'll need to follow:
 
-==== Create a GitHub account
+==== Creating a GitHub account
 
 To create and edit a page or to comment on an existing page, you will need to create an account on GitHub. If you don't have one already, then go to the https://github.com/signup/free[GitHub Signup page]. It's free.
 
@@ -27,9 +23,9 @@ GitHub has excellent tools for collaborating and workflow management, and will b
 
 ==== Copy ("fork") the project repository to your account 
 
-Once you've got an account, fork (GitHub lingo for copying) the main project to your account.  To do this, go to the  https://github.com/oreillymedia/etudes-for-erlang[Etudes for Erlang] repository on GitHub and click the "Fork" button at the upper right hand side of the screen.
+Once you've got an account, fork (GitHub lingo for copying) the main project to your account.  To do this, go to the  https://github.com/oreillymedia/97-things-every-agile-developer-should-know/[97 Things Every Agile Developer Should Know] repository on GitHub and click the "Fork" button at the upper right hand side of the screen.
 
-image::images/tutorial_click_fork.png[]
+image::images/tutorial_click_fork.png[] 
 
 The following screen will appear while GitHub copies the repository to your account:
 
@@ -37,19 +33,12 @@ image::images/tutorial_forking.png[]
 
 ==== Edit your file using AsciiDoc
 
-Once you've got the file created, you can start editing it at your leisure.  Remember to:
+Once you've got the file created in your account, you can start editing it at your leisure.  Remember to:
 
-* Mark up your text using http://powerman.name/doc/asciidoc[AsciiDoc], which is similar to Markdown and other basic wiki-like markup formats.
+* Mark up your text using http://powerman.name/doc/asciidoc[AsciiDoc], which is similar to Markdown and other basic wiki-like markup formats. Please see link for more information on Asciidoc.
 * Change the line wrapping from "No Wrap" to "Soft Wrap."  Otherwise, all your text will appear on a single line.
 
-To edit the file, all you have to do is click its name in the directory listing in GitHub and then press the "Edit" button.  
-
-image::images/tutorial_edit.png[]
-
-[NOTE]
-****
-
-If you want to add an entirely new topic area, you'll need to create a new file in GitHub.  To do this, click the "+" button next to the directory name to create a new file
+To add your chapter, you'll need to create a new file in GitHub.  To do this, click the "+" button next to the directory name to create a new file
 
 Locate the small "\+" sign next to the repository name.  (A tooltip will appear that says "Create a new file here" when you hover your mouse above it.)  Click the "\+" button:
 
@@ -59,7 +48,7 @@ In the new screen, you'll need to:
 
 * Enter a name for the file.  Name the file according to the general topic area, and be sure to include the extension ".asciidoc" at the end.  For example, "foo_and_bar.asciidoc".
 * Enter the chapter title in the editing box; it should be prefaced with two "==" signs.  For example, "== Always Foo the Bar"
-* Once you've entered the filename and title, the "Commit Changes" button at the bottom of the screen will activate.  Click the button to save your file.
+* Once you've entered the filename and title, the "Commit Changes" button at the bottom of the screen will activate.  Click the button to save your file. 
 
 You will see something like this:
 
@@ -71,6 +60,7 @@ image::images/tutorial_naming_a_file.png[]
 
 Before you submit your request, make sure that you have:
 
+* Added your chapter after the title, and committed the changes
 * Run a spell check
 * Make sure it's 400-500 words in length
 * Add your name and a short biography
@@ -92,7 +82,9 @@ Biography::
 
 ==== Submit a pull request
 
-Once you've completed and double checked your submission, you're ready to submit it back to O'Reilly.  This is done by creating a "pull request" that will trigger the review process.  
+Once you've completed and double checked your submission, you're ready to submit it back to O'Reilly.  This is done by creating a "pull request" that will trigger the review process. 
+
+[[Enter new screenshot here]]
 
 image::images/tutorial_submit_pull_request.png[]
 
@@ -105,4 +97,9 @@ image::images/tutorial_pull_request_submission_form.png[]
 
 ==== Engage in back-and-forth
 
-Once you submit your pull request, the project's maintainers will begin a back and forth with you in the discussion features.  You might be asked to make some revisions, shorten it, add additional elements, and so forth.
+Once you submit your pull request, the project's maintainers can comment on your submission or ask you to make changes before including it into the master file. You will be able to respond to any questions directly under the Discussion section. Once that has been completed, the maintainer will add your submission.
+
+If you wish to add an additional chapter, all you'll have to do is go back into your account, go back into the 97 Things Respository, and follow the steps starting with <<EditYourFileUsingAsciidoc>>.
+
+=== If you have any questions, please do not hestiate to contact mconnolly@oreilly.com.
+
