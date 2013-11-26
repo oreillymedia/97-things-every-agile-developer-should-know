@@ -11,7 +11,7 @@ This book is open source, so if you'd like to contribute, make a correction, or 
 
 === How to Contribute
 
-If you're new to git and GitHub and just want to keep things as simple as possible, this tutorial will give you a quick and easy way to make your contribution.  _If you already have an account, please skip ahead to <<Copy("fork")theprojectrepositorytoyouraccount>>_ Here are the steps you'll need to follow:
+If you're new to git and GitHub and just want to keep things as simple as possible, this tutorial will give you a quick and easy way to make your contribution.  _If you already have an account, please skip ahead to Copy ("fork") the project repository to your account._ Here are the steps you'll need to follow:
 
 ==== Creating a GitHub account
 
@@ -23,7 +23,7 @@ GitHub has excellent tools for collaborating and workflow management, and will b
 
 ==== Copy ("fork") the project repository to your account 
 
-Once you've got an account, fork (GitHub lingo for copying) the main project to your account.  To do this, go to the  https://github.com/oreillymedia/97-things-every-agile-developer-should-know/[97 Things Every Agile Developer Should Know] repository on GitHub and click the "Fork" button at the upper right hand side of the screen.
+Once you've got an account or if you already have one, fork (GitHub lingo for copying) the main project to your account.  To do this, go to the  https://github.com/oreillymedia/97-things-every-agile-developer-should-know/[97 Things Every Agile Developer Should Know] repository on GitHub and click the "Fork" button at the upper right hand side of the screen.
 
 image::images/tutorial_click_fork.png[] 
 
