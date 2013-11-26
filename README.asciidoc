@@ -38,9 +38,7 @@ Once you've got the file created in your account, you can start editing it at yo
 * Mark up your text using http://powerman.name/doc/asciidoc[AsciiDoc], which is similar to Markdown and other basic wiki-like markup formats. Please see link for more information on Asciidoc.
 * Change the line wrapping from "No Wrap" to "Soft Wrap."  Otherwise, all your text will appear on a single line.
 
-To add your chapter, you'll need to create a new file in GitHub.  To do this, click the "+" button next to the directory name to create a new file
-
-Locate the small "\+" sign next to the repository name.  (A tooltip will appear that says "Create a new file here" when you hover your mouse above it.)  Click the "\+" button:
+To add your chapter, you'll need to create a new file in GitHub.  To do this, click the "+" button next to the directory name to create a new file. Locate the small "\+" sign next to the repository name.  (A tooltip will appear that says "Create a new file here" when you hover your mouse above it.)  Click the "\+" button:
 
 image::images/tutorial_add_a_file.png[]
 
