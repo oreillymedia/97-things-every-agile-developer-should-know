@@ -13,8 +13,6 @@ The fact that there is no formula for motivating employees and that everyone is 
 .About the Author
 [NOTE]
 ****
-Name::
-Matt Holitza
-Biography::
-Matt Holitza has worked in the software delivery field for over 15 years. He has served in many roles including QA Manager, process architect, test automation lead and enterprise developer. He has worked in a variety of industries including retail, supply chain management, manufacturing and government. Matt is currently the Senior Technical Marketing Manager for IBM Rational’s Agile solutions and serves as the content lead and contributor to the IBM Agile Transformation online community at _http://ibm.co/getagile._
+Name:: Matt Holitza
+Biography:: Matt Holitza has worked in the software delivery field for over 15 years. He has served in many roles including QA Manager, process architect, test automation lead and enterprise developer. He has worked in a variety of industries including retail, supply chain management, manufacturing and government. Matt is currently the Senior Technical Marketing Manager for IBM Rational’s Agile solutions and serves as the content lead and contributor to the IBM Agile Transformation online community at _http://ibm.co/getagile._
 ****
