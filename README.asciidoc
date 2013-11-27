@@ -96,9 +96,9 @@ image::images/tutorial_pull_request_submission_form.png[]
 
 ==== Engage in back-and-forth
 
-Once you submit your pull request, the project's maintainers can comment on your submission or ask you to make changes before including it into the master file. You will be able to respond to any questions directly under the Discussion section. Once that has been completed, the maintainer will add your submission.
+Once you submit your pull request, the project's maintainers can comment on your submission or ask you to make changes before including it into the master file. You will be able to respond to any questions directly under the Discussion section. _Upon your submission, you will be emailed a URL to our release, which you will need to complete._ This release will not take long. Once that has been completed, the maintainer will add your submission. 
 
-If you wish to add an additional chapter, all you'll have to do is go back into your account, go back into the _97 Things_ Respository, and follow the steps starting with *Edit Your File Using Asciidoc*.
+If you wish to add an additional chapter, all you'll have to do is go back into your account, go back into the _97 Things_ Respository, and follow the steps starting with *Edit Your File Using Asciidoc*. 
 
 *If you have any questions concerning submitting, please do not hestiate to contact mconnolly@oreilly.com.*
 
