@@ -1,0 +1,27 @@
+== The Cost of Compliance
+
+It is all to common in many large corporations to hear of some hurdle that must be overcome with the Compliance Department to enable an Agile project. Detailed, complex, and often stringent policies, standards, and procedures have been sent down the corporate chain to provide, among many other things, risk prevention or mitigation. They are all well intended, but they do have unintended consequences. You know how it goes, (I have graciously removed the expletives):
+
+* Compliance questions everything and slows it all down •	Compliance creates policies that make it impossible for us to get anything done 
+* Compliance doesn’t understand the Agile mindset 
+* Compliance people are jerks
+
+Introductory Agile courses provided to software solutions teams will often make mention of the compliance conundrum. Instructors tend to focus, as they should, on the benefits of collaboration, delivery efficiency, reduced documentation, and so forth, while avoiding the sensitive issues that are unique to the risk avoidance requirements of the enterprise. We see this as well in the innumerable Agile blogs on the internet. But how do we deal with Compliance and get our Agile project going?
+
+Let’s take a minute to consider whether Compliance is your adversary or not. As a matter of sound business, Compliance is going to state that some of their requirements must be incorporated into your project, regardless of the selected methodology. Some project artifacts may have come from strict regulatory mandates. Meanwhile, the Agile team knows that while the goal is to eliminate waste and deliver value quickly, the Agile endeavor is not a free for all. From a negotiating standpoint, Compliance has a strong position. There are some guiding principals that we agree to live by or else the project will devolve into chaos. The Agile then team has the opportunity to employ the same skills they use in developing creative software solutions in demonstrating an entrepreneurial spirit to work through the negotiating process with Compliance to reach the goal of mutual satisfaction.
+
+In this space we cannot review the many project features that may be of concern to Compliance, but we can briefly discuss one of the heavy hitters: Documentation. Compliance is rightly concerned that you will provide them with access to project artifacts (aka evidence) that may be required of internal and external auditors of changes to key enterprise systems. Does the enterprise then require a detailed requirements document? Requirements traceability? User guide? A detailed technical manual? It depends, but regardless of the answer you get from Compliance, be smart about it. Any or all of these document samples can be valuable if they can serve as communication tools for your team or stakeholders to better understand the work at hand. Consider the cost/benefit. Used properly, they can reduce your risks.
+
+Your goal is to become familiar with the enterprise policies or regulatory documents yourself so that you can distill the principal drivers to make yourself prepared to discuss how Agile can efficiently answer the regulatory needs with your Compliance representatives.
+
+Documentation must be complete, accurate, and accessible. Your goal is to ensure Compliance and other stakeholders have access to the supporting documentation when requested by an Auditor or Examiner. Consider that lengthy analysis and requirements documents are often not necessarily complete and accurate because they discuss what might be. Documents created near the close of the project that describe what actually has been delivered are much more likely to contain accurate information, and this is what Compliance really wants. Agile can do that.
+
+.About the Author
+[NOTE]
+****
+Name:: 
+Ray Kevorkian
+Biography::
+Ray Kevorkian is a Sr. Director of Systems Compliance & PMO at John Hancock in Boston.
+****
+
