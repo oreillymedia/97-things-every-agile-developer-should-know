@@ -1,0 +1,37 @@
+==Software Engineering Costs of Quality
+
+What does software engineering productivity mean, anyway?  How do you know if you are more, or less, productive than your competitor?
+
+In a nutshell, increasing software engineering productivity is the ability to delivery more features and functionality to customers that deliver business value for the same cost.  In other words, with the same team, writing more code that users use.
+
+Most developers, unfortunately, don't understand this concept.  Worse, managers and executives are even more clueless.
+
+The issue comes down to the quality of code being written.  Does massive code slinging, only to have it come back bug-ridden and defect-riddled really represent improved productivity?  The answer is HELL NO, but too many organizations do not, and can not, discern the difference in effort expended writing code to develop new software, with effort expended to support bad software and fix defects.  Its all viewed as the same activity when in reality they are vastly different when measured in business value.
+
+The reality is leading software engineering organizations deliver 80% fewer defects and enjoy TWICE the productivity of average ones.  While the average team is fixing problems on a current release, leading teams are developing better features and functionality to further get ahead of the competition.
+
+Consider this:  In a perfect world, where defects didn't exist, what software tasks would a project team need to perform to delivery a solution?  They'd need to understand the customer requirements, perform some design, do some project management, then code the solution.  That's it and these are called costs of development.  But is that all that software teams do?  Not by a long shot.  There are requirements and design reviews, unit/integration/system testing, bug fixes, CM, bug tracking, rework, patch releases, etc.  Even more expensive activies are customer support staff, product returns, lawsuits, cancelled projets, etc.  These are called costs of quality.
+
+The truth is the average software organizations spends 65% of its resources and funding on costs of quality.  It's shocking, I know.  Leading sofware organizations spend 40% on costs of quality, or in other words, are 50% more productive than average organizations.
+
+By understanding your organization's cost of quality and how much inefficiencies are costing you will be able to shift resources and attention towards prevention.  The result:  You’ll see an increase in not only software quality but also productivity, customer satisfaction and employee morale.  Defects delivered to the field, employee turnover and development cycle times will be significantly reduced.
+
+About the Author
+ 
+
+Name
+ 
+
+Rolf W. Reitzig
+ 
+
+Biography
+ 
+
+Mr. Rolf W. Reitzig is the Director of ALM Transformation for Avnet Services. Mr. Reitzig has 20 years of practical experience in software engineering and has helped dozens of Fortune 500 companies improve software engineering quality, productivity and project results through the implementation of best practices like Agile, RUP, and CMMI, as well as leading ALM solutions from IBM. He has worked closely with the Software Engineering Institute in understanding and communicating the return on investment of process and tool standardization efforts to the software development community. Mr. Reitzig speaks regularly at international conferences, seminars and user groups sponsored by IBM Rational, the SEI, and many others. He advises executive and senior managers, helping them understand the economics of engineering improvement and its implications on organizational change. Mr. Reitzig holds a Bachelor’s degree in Computer Science and an MBA in Finance from the University of Colorado and is on the Board of Advisors for the Computer Science Department at Metropolitan State University in Denver, CO.
+ 
+
+Image
+ 
+
+http://www.linkedin.com/profile/view?id=30259298&goback=%2Enmp_*1_*1_*1_*1_*1_*1_*1_*1_*1&trk=spm_pic

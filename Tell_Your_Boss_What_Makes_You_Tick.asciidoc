@@ -1,0 +1,18 @@
+== Tell Your Boss What Makes You Tick
+
+Regardless of what many believe, agile is more than just a new development approach. When implemented effectively, it is a paradigm shift that impacts the entire organization, from human resources to marketing and sales. The Agile Manifesto states that we should value poeple over processes, so from a human resource perspective, agile means shifts in thhe way the organization is structured and changes in the way people are motivated and rewarded.
+
+How does your company motivate you? Is it effective?
+
+Motivation has always been more of an art than a science, although many large corpoations try to implement reward systems that are based on formulas. These giant, almost financially driven corporations, often neglect the fact that their organizations are made up of people, not robots. Unfortuntely, for these organizations, every human is motivated in different ways, not rigid and formulated rating systems and bonus programs.
+
+This is not a new concept. In 1959, a gentleman by the name of Federick Herzberg developed Herzberg's Motivation-Hygiene theory. His studies included interviews with employees about what pleased them and displeased them about their work. The findings were categorized into the satisfiers as "motivators" and the dissatifiers as "hygene" factors. Hygiene factors are viewed as the basic needs, or table stakes, that works need to avoid dissatisfaction. For example, worker salary, if workers aren't paid a fair wage, this factor will become a major source of dis-satisfaction. If employees are paid fairly, it is other factors like achievement and work relationships that ruly motivate them. Monetary rewards have historically been a short term motivator which are typically awarded only once or twice per year. An agile approach relies on the continuous contribution of every team member on an ongoing basis. Does an annual reward really support agile? Wouldn't this demand a continuous strategy to motivate team members as well?
+
+The fact that there is no formula for motivating employees and that everyone is motivating in their own unique waym begs the question, _What Motivates You?_ Money? Delivering cool code to customer? Coming up with the next generation architecture? Taking on more responsibility? Working with your teammates? Learning new technologies and tools? Something else? Does your boss or manager know what motivates you? If not, why not tell him? If she/he doesn't know what motivates you, then how canthey be expected to provide you with what you want? So tell your boss what makes you tick. Opening this line of communication will empower you and give your manager the right information to make you happier in the long run.
+
+.About the Author
+[NOTE]
+****
+Name:: Matt Holitza
+Biography:: Matt Holitza has worked in the software delivery field for over 15 years. He has served in many roles including QA Manager, process architect, test automation lead and enterprise developer. He has worked in a variety of industries including retail, supply chain management, manufacturing and government. Matt is currently the Senior Technical Marketing Manager for IBM Rational’s Agile solutions and serves as the content lead and contributor to the IBM Agile Transformation online community at _http://ibm.co/getagile._
+****

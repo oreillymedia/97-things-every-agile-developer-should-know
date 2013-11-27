@@ -1,0 +1,42 @@
+== Transforming to a High Performance Agile Organization (Building Performance In)
+
+When implemented correctly, Agile encompasses the entire application lifecycle and organization. It unites Business, Development, and Infrastructure with a common focus on Speed, Quality, and Value. This focus culminates in application performance on the part of the “customer” or application end user. As performance continues to be the most critical factor affecting adoption and use of an application, Agile organizations must increase focus on improving speed, measuring quality, and delivering value.
+
+Speed in Agile accounts for time-to-market of an application or feature / function. It refers to the time it takes from idea conception to delivery to the customer. “Acceptable Completion” or “Doneness Criteria” is paramount. In an Agile process with continuous integration, continuous development, continuous testing, and continuous deployment; an ‘artifact’ is only considered done when it meets all Doneness Criteria, both functional and performance.
+
+The Agile process should build-in performance throughout each stage, from Initial idea conception to Operations Support & Maintenance. Doing this does not put speed at risk, just changing some thinking and a modified approach. Build-Deploy-Test automation provides a reliable and fast way to verify feature / function early and often throughout the development lifecycle. This automation, combined with an Agile framework that has garnered acceptance throughout the organization, speeds the delivery of highest priority feature / function to the customer.
+
+While time-to-market can be measured from idea to done in finite terms (minutes / hours / days), measuring quality is a different beast. Many organizations measure quality objectively, “number of defects found through the Development / Test process”; however, when do you ever know what the ‘total numbers of defects’ are…really?
+
+On the surface, this has been a good (and accepted) objective measurement. However, quality must be also weighed subjectively. The customer’s perception of failure is arguably more important than discovered defects prior to production, especially when it comes to user adoption and acceptance.
+
+Understanding the tolerance, or patience, of users for any particular transaction is critical. Performance failures should be considered functional failures. If a transaction takes 30 seconds to complete and users do not wait around for results to be delivered, the function itself has subjectively failed.
+
+Establishing performance thresholds within the build-test-deploy process helps detect both subjective and objective failures earlier in the application lifecycle, along with automating the pass-fail criteria for each stage in the lifecycle. This provides more value from your automated build-test-deploy system, more time for remediation of critical failures, and avoids potentially damaging negative customer experiences.
+
+Ensuring both objective and subjective quality does not guarantee an application will deliver value to its users. Value is also a two-fold tenet of Agile. Perceived value and actual value to a customer or user must be determined. This value should be expressed as success in delivering specific or requested feature / function, as well as whether or not the application meets (or better yet, exceeds) expectations. Value to the business or application owner should be evaluated in terms of market position, brand, productivity, and / or revenue.
+
+As the statistics in several analyst reports and customer experiences show, it is not straightforward or easy for organizations to successfully transform to ‘high performing’ Agile. When successful; business (and IT) stakeholders will achieve a high-performance culture that delivers the highest value feature / function to its customers, in the fastest time possible, and with the highest quality.
+
+To achieve this and to ensure the appropriate focus on performance throughout the application lifecycle, organizations must:
+
+. Integrate or break down the barriers that exist between Customers, Business Stakeholders, Development / Test, and Infrastructure teams. Agile demands collaboration and alignment throughout the application lifecycle and organization. Teams should unite around a common focus on Performance and the Customer.
+
+.. Best practices for bridging this gap include enabling the Performance Engineering team to work directly with Disaster Recovery and Capacity Planning teams. In this situation, if Capacity Planning forecasts a sharp increase in users due to a successfully launched marketing campaign, Performance Engineers would execute a number of test scenarios to mitigate potential risks. Disaster Recovery would test resiliency and prepare for both a failover and fallback scenario.
+
+. Leverage automated tests (build-deploy-test systems) and “quality gates.” As mentioned, automation is essential for Agile. Automation allows critical procedures, like testing, to run in parallel throughout the development process; reducing wait time (waste), accelerating progression through Development / Test Environments, and limiting the manual effort to only when needed, and on the highest quality code latter in the prior to production environments.
+
+.. Establishing quality gates enables a set of automated “pass” parameters that must be met for each build to receive the quality stamp. These parameters, and how quality is determined, will vary as the application progresses through the development desktops, build verification test, integration, quality assurance, pre-production, and production environments. “Quality Gates” prevent builds from progressing from one environment to the next until acceptable performance and usability thresholds are met, while maximizing automation to quickly deliver quality.
+
+An increased focus on performance with focus on Speed, Quality, and Value is fundamental. Integrating this focus with maturing Agile teams and customer-driven collaboration results in a customer-centric, not a developer-centric, movement. This customer-centric movement does not and cannot exclude QA and Operations because customer experience and perception is paramount.
+
+This is Agile implemented correctly. This is Agile improving application development and deployment. Agile is more than a daily standup and having a backlog. It is more than the statement, “Yes, we are Agile.” It is an integrated process, across the application lifecycle and organization culture, including the customer, which incorporates performance in every stage and delivers on the promise of Speed, Quality and Value…to the CUSTOMER!
+
+.About the Author
+[NOTE]
+****
+Name::
+Todd DeCapua
+Biography::
+Todd DeCapua is a Certified ScrumMaster and Scrum Practitioner with three (3) Agile transformations under his belt, an MBA with a Concentration in Finance, and recognized expert Writer / Speaker / Practitioner in Agile / Cloud / Mobile / Performance. He is VP of Channel Operations and Services for Shunra Software, which provides network virtualization and application performance / optimization capabilities.
+****
