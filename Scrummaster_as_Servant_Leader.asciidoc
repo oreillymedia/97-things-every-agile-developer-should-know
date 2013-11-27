@@ -18,6 +18,6 @@ In summary, the SrumMaster sees himself as the servant of a team of self-leaders
 ****
 Name::
 Jaco Viljoen
-Biography:
+Biography::
 Jaco Viljoen is principal consultant at Indigocube, an IBM business partner. He helped various customers in South Africa and abroad to solve pervasive software development problems. Recent customer engagements included agile techniques and IBM Rational Jazz technologies.
 ****
