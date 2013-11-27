@@ -1,0 +1,3 @@
+== The Cost of Compliance
+
+It is all to common in many large corporations to hear of some hurdle that must be overcome with the Compliance Department to enable an Agile project. Detailed, complex, and often stringent policies, standards, and procedures have been sent down the corporate chain to provide, among many other things, risk prevention or mitigation. They are all well intended, but they do have unintended consequences. You know how it goes, (I have graciously removed the expletives):
