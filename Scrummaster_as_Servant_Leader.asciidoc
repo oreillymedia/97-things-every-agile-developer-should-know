@@ -1,0 +1,23 @@
+== The ScrumMaster as Servant
+
+In Scrum, the ScrumMaster, and in XP, the coach is considered as the team leader. He is "primus inter pares" among the members of the team, especially when he is a technical member working as part of the team. *Primus inter pares* means first among equals or first among peers. It is intended to project mutual respect and camaraderie. The importance of a culture of primus inter pares is that it provides a greater degree of openness for productive relationships to develop because people are freer to exchange ideas and to collaborate.
+
+Scrum sees the ScrumMaster as a servant leader that serves the product owner, team and organisation. Robert Greenleaf, the father of servant leadership never specifically defined servant leadership, but gave us some guidance.
+
+Robert Greenleaf said “The servant-leader is servant first” and that “The leader-first and the servant-first are two extreme types.” He said this before the rise of the self-leadership paradigm where everybody is a leader, even if he is just leading his own life. In light of this, a servant leader can be seen as *“a servant of leaders”*, which is a good perspective for a ScrumMaster. In line with this Charles Manz and Henry Sims said: “In many modern situations, the most appropriate leader is one who can lead others to lead themselves. We call this new powerful new kind of leadership “SuperLeadership”.” SuperLeadership is an approach that strives to develop followers who are effective self-leaders. It describes the processes of leading others to lead themselves.
+
+Robert Greenleaf also said “The best test, and difficult to administer, is this: (test 1) Do those served grow as persons? Do they, while being served, become healthier, wiser, freer, more autonomous, more likely themselves to become servants? And, (test 2) what is the effect on the least privileged in society? Will they benefit or at least not be further deprived?”.
+
+The first test means that the ScrumMaster has a commitment to the growth of people. A servant leader is convinced that people have an intrinsic value beyond their contributions as workers. Therefore, he or she should nurture the personal, professional and spiritual growth of employees. For example, he spends funds and resources for the personal and professional growth of the people who make up the organisation. The servant leader will also encourage the ideas of everyone and involve workers in decision making.
+The second test for servant leadership implies that the ScrumMaster is building community: A servant leader identifies means to build a strong community within his organisation and wants to develop a true community among businesses and institutions.
+
+In summary, the SrumMaster sees himself as the servant of a team of self-leaders. His/her purpose is to create a community of openness, respect and growth. In this community people collaborate as equals and freely exchange ideas.
+
+.About the Author
+[NOTE]
+****
+Name::
+Jaco Viljoen
+Biography::
+Jaco Viljoen is principal consultant at Indigocube, an IBM business partner. He helped various customers in South Africa and abroad to solve pervasive software development problems. Recent customer engagements included agile techniques and IBM Rational Jazz technologies.
+****

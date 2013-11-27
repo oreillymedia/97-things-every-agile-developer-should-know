@@ -1,0 +1,19 @@
+== What Prevents Teams from Becoming or Stop It When Hyperproductive
+
+Self-organisation is essential in order for an agile team to become hyperproductive (Sutherland, 2009). An agile team will not become hyperproductive if management does not support the environment for self-organisation. Even when a team becomes hyperproductive, a disruptive environments will consistently destroy hyperproductivity (Sutherland, 2009). According to Hoda, Noble, & Marshall (2011), management typically supports self-organising agile teams by creating and maintaining an open and informal organisational culture, negotiating “Agile-friendly” contracts, providing financial sponsorship, and managing human resources in a way that supports self-organisation. Senior management that does not manage these factors effectively causes challenges for self-organising teams at best and disables self-organisation in agile teams at worst.
+
+In order for a group of people to become a hyperproductive team, management need to understand how things grow, not how they are built. In other words, the role of leaders should include the stewardship of the living rather than the management of the machine (Jurgen Appelo, 2012). Managers cannot construct and steer a self-organising team as if it was a machine. Instead such a team must be grown and nurtured. Therefore, management must acknowledge that hyperproductive agile teams are not managed with models and plans. Instead hyperproductivity must emerge through the power of self-organisation and evolution (Appelo, 2010).
+
+To become hyperproductive, the team have to be properly coached (Jeff Sutherland, 2009). Failing to do so result in “teams” that are not teams. Douglas McGregor (cited by Mike Cohn, 2009) noted that: “Most teams aren’t teams at all but merely collections of individual relationships with the boss.”
+
+A hyperproductive team can rapidly disintegrate under bad management. Sutherland (2009) observed that within organisations in the U.S. and Europe, management systematically destroy most hyperproductive teams. Similarly, Denning (2010) observed that: “Many of the high-performance teams that I came across in my research suffered that fate. They had been killed by a traditionally minded management, either wilfully to bring the team back into line with the prevailing corporate norms, or by accident, as a result of splitting the team up, without realising that this would destroy the high level of performance that had been created.”
+
+A hyperproductive team will struggle to continue under a bureaucratic organisational culture. This is because a high-performance team typically becomes more productive by breaking the rules, and a bureaucracy hates having rules broken. A group that breaks rules may be tolerated for a period, but eventually the rules take over, the group is “brought back into line,” and high performance ends. Enhanced productivity is not enough to save the team. “In a bureaucracy, order trumps performance” (Denning, 2010).
+
+.About the Author
+[NOTE]
+****
+Name:: Jaco Viljoen
+Biography::
+Jaco Viljoen is principal consultant at Indigocube, an IBM business partner. He helped various customers in South Africa and abroad to solve pervasive software development problems. Recent customer engagements included agile techniques and IBM Rational Jazz technologies.
+****

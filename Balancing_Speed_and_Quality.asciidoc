@@ -1,0 +1,28 @@
+== Balancing Speed and Quality
+
+Agile developers are already very familiar with test driven development – the practice of writing automated test cases before developing the source code to implement the user story. Once the test case is authored, minimal application code is written to pass the test and then iteratively re-factored to meet development standards -each time ensuring the tests still pass. As more features or functionality is added, more test cases are created. When you include the execution of automated tests more frequently and continuously throughout the development process, one has to believe the level of quality delivered in the software must be higher.
+
+But to what level do these automated test cases really exercise the new or modified source code? Particularly in today’s world where more and more software is integrated and interconnected with many existing legacy systems being reused to accelerate software development. Do the tests validate only the code developers have written (unit tests or compilation tests) or do the tests also include checking the integration between this new or modified source code and the legacy systems, other applications, or services they are dependent on? Announcing the code is complete or you are done, based on successful unit testing alone, may not accurately represent or offer a true measure on the quality of the software being delivered.
+
+Agile teams are moving quickly and future planning is based on team velocity and burn down. What if testing starts slowing down the development team? The name of the game is to deliver new functionality quickly to the user community contributing to the business’ success. And high quality software is a key contributor to business success as the consumer is the final judge of quality.
+
+When you consider that everyone contributes to quality and how the world of testing is changing, developers – programmers and testers – must now look for ways to shift a more complete level of testing to the left. Including continuous integration testing as part of the automated build process is a must to maintain velocity and get to “done, done, done” within a single iteration. It has become essential to truly balancing quality and speed.
+
+So, how do today’s teams avoid testing bottlenecks to continuously test their software while maintaining speed? Test environments are more complex than ever before and taking longer to stand up. This can delay testing. To address this, some teams may defer testing or de-scope certain tests. An extremely risky approach! Others teams may choose to manually write “stubs” or “mocks” to emulate missing but dependent software. While this ad-hoc approach does offer some value with small returns, writing mocks manually means that the developer is not doing what they should be doing. That is writing new feature functionality to meet the business requirements.
+
+Hello service virtualization! Service virtualization enables team to simulate the behavior and performance of dependent services and software without having to wait for that expensive test environment to be made available. Through the creation of virtual components, either recording the messages or developing from specifications, teams are able to emulate dependent software without delay while offering the right level of sophistication – simple, non-deterministic, data driven, stateful, or behavioral.
+
+But perhaps the best way to explain how service virtualization can be used and how it can help teams maintain velocity is through an example. In our example, the team needs to create three new code modules. Each module is being developed by another team member and each module has dependency on the others as well as an integration dependency with an ERP system, a web service and a database. However, the ERP is not available for testing due to the cost and effort of standing up, the web service is provided by a third party without a test environment, and database is not yet available. So, how can the team test these integrations as part of the development effort? Virtual components are first created to emulate the ERP system, web service and database. 
+
+As module C1 is built it is continuously tested exercising the virtual components as if they were the real implementations.
+Next, as module C2 becomes available, the integrations between C1 and C2 are checked and defect is discovered! Rather than wait for a fix to C2, a virtual component is quickly created emulating C2’s expected functionality allowing the C1 developer to proceed.
+As the modules are getting close to done, the real source code is introduced to the test environment and the virtual components are turned off in a controlled manner. Through controlled integration and bringing all the pieces together in stages addresses the “big bang” which many teams experience as they start system and system integration testing. Rather than hoping things just work as expected, teams can move integration testing further to the left and continuously test removing element of surprise. Sure, you will probably still find defects but there will be fewer and not as severe as possible learning hat your application architecture and design is flawed. Service virtualization is the enabler making continuous testing a reality and shifts testing left allow teams to validate design decisions, functionality, and performance much earlier in the sprint.
+
+.About the Author
+[NOTE]
+****
+Name::
+Al Wagner
+Biography::
+
+****
