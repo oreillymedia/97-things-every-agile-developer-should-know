@@ -1,0 +1,35 @@
+== Egoless Code Reviews
+
+Code reviews are an essential part of the agile process, however it can be one of the hardest parts for a lot of people. Done correctly, besides ensuring code quality, they can be a great learning tool for junior developers and great way to stay sharp for the experienced. Done wrong they can create unnecessary tension in the team and be counter productive to their goal.
+
+For some the idea of peer review may be a new and terrifying prospect in the adaption of agile. Many coders are uncomfortable with reviewing another peoples work or having someone review their work. Some say why bother I'm perfect. Two of the three issues with reviews are valid feelings and or fears that can be minimized with some quick tips, the third can also be addressed.
+
+In general here are some good ground rules for everyone:
+
+* There is more than one way to skin a cat. If the code is correct and works but different than how you would do it, dont just comment back do do it my way, be receptive to different solutions. Maybe you will learn something.
+* Ask questions rather than accusing. "I am interested in how you came to this solution, could you explain" vs "Your solution is wrong please make it do x".
+* Make them brief and actionable.
+* Be consistent with your reviews.
+* Block time from your calendar to do a couple at a time. Switching gears is hard and unproductive.
+* Don't have a review buddy, spread your review request around.
+
+For those of you who fear doing code reviews here is a tip.
+
+* If you are junior ask a senior developer if you can review their code. It is a great way to learn. When reviewing stick with the basics, dont try to find fault with with the code, check that they have followed code conventions and good coding practices as you have learned so far. When you have found something that you do not understand or seems out of compliance ask the senior person to explain there thinking. Don't miss a great opportunity to engage with someone with more experience than you.
+* If you feel like a review is "critiquing" another team members work, or you feel it can be confrontational then lets look at how we can make this a more comfortable task. A great trick is to treat it as your code, not as the other persons code. Did you follow good coding practices etc... Be critical of yourself not the other person, take them out of the equation. Then rather than editing the code as you would if it was your code, write up the suggestions in the task or story as you would want them written to you. If it is the first couple of reviews with a team member it may be helpful to write notes down and talk with the person about the issues prior to sending comments back. You will find that building a repor and seeing that the other person is not taking it personally will go a long way to getting you comfortable with peer reviews.
+
+For those who fear having code reviews done of your work, here is a great tip.
+
+* Create a check list of each task that needs to be done before checkin and review. Great tasks are things like, review the diff for each changed file, make sure that extraneous debugging code is removed, your new files are included in the build, and checks for coding conventions. Try to make the list identical to the tasks you expect the reviewer to do when performing the review. If you get dinged on a review, add it to the list. Then always run through this list before you check in.
+
+For those of you who think you dont need code reviews here is a tip.
+* Get over it you are not perfect.
+
+.About the Author
+[NOTE]
+****
+Name::
+David Bows
+Biography::
+David Bows is a Senior Software Engineer at Brainshark.
+****
