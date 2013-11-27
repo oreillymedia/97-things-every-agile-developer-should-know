@@ -2,8 +2,20 @@
 
 include::README.asciidoc[]
 
-include::SAMPLE_CONTRIBUTION.asciidoc[]
-
 include::preface.asciidoc[]
 
-include::holitza_matt_whatmakesyoutick.asciidoc[]
+include::Balancing_Speed_and_Quality.asciidoc[]
+
+include::Rolf_Reitzig2.asciidoc[]
+
+include::Scrummaster_as_Servant_Leader.asciidoc[]
+
+include::Tell_Your_Boss_What_Makes_You_Tick.asciidoc[]
+
+include::The_Cost_Of_Compliance.asciidoc[]
+
+include::Transforming_to_a_High_Performance_Agile_Organization.asciidoc[]
+
+include::What_Prevents_Teams_from_Becoming_or_Stop.asciidoc[]
+
+include::Egoless_Code_Reviews.asciidoc[]
