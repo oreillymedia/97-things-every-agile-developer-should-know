@@ -1,0 +1,20 @@
+== Don't Get Attached to Your Code
+
+On occasion, I find myself caught in a 'what is our contribution to humanity' stream of thought. However cool what we work on is at the moment, its very nature is ephemeral. Teenage girls will not cry to our code surrounded by lit candles. Tourists will not make goofy pictures with our code precariously leaning in the background. And our code will not be the last to survive 'After Humans', giving the pyramids a run for their money. No matter how important our code seems to us, object of a lasting value it is not.
+
+Ours is not the only profession where fruits of our labor are of a fleeting nature. Bakers used to wake up at 2am to produce beautiful bread that had to be eaten by the same evening lest it turns into a hard object you can bludgeon somebody to death with (I am talking artisan bread here, not the mutant Ninja variety that is sold in plastic bags nowadays). But at least they spent only a few hours on their creation. What about the wine makers? They toil year around, harvest the grapes, ferment them, let the wine sit in wooden caskets for years, bottle them with meticulous attention to detail. To what end? No matter how expensive the wine, in the end you are only left with memories.
+
+Developers invest a lot of time crafting their code. It is the ultimate expression of their intellect, and if they are not careful, even their souls and their very creative essence. I say 'if they are not careful' because code, like bread or wine, has an expiration date, and getting attached to an artifact of a fleeting nature is not wise and can lead to heartbreak. There are many ways a piece of code can end up on the chopping block: change in requirements, target environment, new OS or browser version that makes your code obsolete, refactoring, performance improvements, 'what were we thinking' moments, you name it. Or you can get assigned to a new task and somebody else (the horror!) ends up owning it.
+
+Why do we invest so much personal value in code? It may be the effort required to craft it, or the sacrifices needed along the way (I wish I had a dollar for every perfect day I observed through the window of my office while writing the latest absolutely awesome installment of the future legacy code). Some people go as far as to invest a lot of meaning in the actual syntax and how all the statements and punctuation are lined up (the best way to turn such a developer into a ball of rage is to run their code through an automatic formatter). We can also write code with an intention to impress, which is a sure sign it will be too smart for its own good.
+
+This is what I think the remedy is. We should learn from those before us that engaged in professions that by their very nature do not produce long-lived objects (even though you could argue that those Cobol programs still running in banks and airline reservations are pushing the meaning of the word 'fleeting'). We should focus on the positive effect of our code: how many lives it improved, how much time it saved to its users, how much faster it made developers for a while. Good code can inspire, generate many more ideas, be a stepping stone to even greater heights. Even bad code can be a learning experience, at least as in 'we should not do that again'.
+
+So there you have it. Focus on the transcendental value of your code - what it means to your users and how it makes their life better, at least for a moment, and cherish that value. While physical manifestations of your code may succumb to the vagaries of the fast-moving industry (phone app development, anyone?), nobody can take away the memories and the learning that your code brought you.
+
+.About the Author
+[NOTE]
+****
+Name:: Dejan Glozic
+Biography:: 
+****
