@@ -1,0 +1,20 @@
+== The Role of the Visionary on Agile Teams
+
+So our agile teams are self-organized, we have created our backlog and now we just have to dive in and start work pulling things off the backlog, while conferring with our product owner, and we’re all set to create a great software application…right? Well I argue that what is missing is the vision or the visionary if you will. The visionary is the person on the team that has this high level feel for the purpose, look and functionality that the application is targeting. Sometimes this vision is based on deep experience in the subject matter area, other times it is simply being passionate and knowledgeable with the problem that is being solved. But in every example of a successful project that I have worked on, someone emerges as the visionary…that go-to person that seems to have the answer for everything.
+
+In addition to the overall functionality, they are often involved in the high level application architecture as they seem to be able to “see” how all the components must be designed to come together effectively and efficiently. Often the visionary is technically acute so they may be involved in some of the lowest level technical discussions about solving the architecture of individual components and the api’s required.
+
+At first it is not apparent who on the team is going to play the visionary role. Indeed with some agile teams it is not clear if there even was one even after they have completed a project. And that is fine too, but when a team does include a visionary, everyone knows it because the resulting work so obviously stands out from the work produced by “regular” teams that have no visionary. Popular examples are Steve Jobs of Apple, Erich Gamma at IBM and Brian Foley at Cognos. Each one of these persons had different roles on the teams but every one of them was a visionary, a leader, that showed an uncanny ability to envision, architect and be passionately involved in their projects.
+
+And what about that “leadership” attribute? In agile we just think of the “team” which is of course a very important aspect of agile or any organized activity for that matter. But leadership is also important. Leadership means having someone the team can look up to as a beacon of stability, a decision-maker for the real tough calls on a project….a person that keeps going no matter what obstacles come along. The person that stays late working side-by-side helping you resolve that especially stubborn bug. A person that will take your urgent call or instant message or email no matter what time of the day or week it is. They are sometimes humble, courteous and a great friend on the project. Alternatively they may also be loud, rude, demanding and difficult to work with. So the visionary can come in many flavors depending on their personality or the situation they find themselves on a particular project.
+
+So who on our agile team should have this visionary role? Well I do not think that it is an assigned role or a volunteered role. It just gradually becomes obvious if the team has one. A team may start out with no visionary and never have one. That is certainly fine for most projects and is probably the way it is for most projects...even successful projects. On some teams the product owner is the visionary or evolves to become that person. It may be one of the developers on the team or it may very well be the business owner. But when the team has a visionary it becomes obvious to the team and often to those outside the team as well. A team with a visionary is a high-performing team that will deliver outstanding results beyond the norm.
+
+If you are faced with putting together an agile team, make sure there is a visionary on your side.
+
+.About the Author
+[NOTE]
+****
+Name:: Bernie Coyne
+Biography:: Sr. Technical Marketing Manager, IBM
+****
