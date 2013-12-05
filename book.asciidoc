@@ -2,11 +2,27 @@
 
 include::README.asciidoc[]
 
-include::preface.asciidoc[]
+include::Contributor_Guidelines.asciidoc[]
+
+include::LICENSE.asciidoc[]
+
+include::SAMPLE_CONTRIBUTION.asciidoc[]
+
+include::Beware_Of_Agile_Zealots.asciidoc[]
+
+include::Dont_Write_Smart_Code.asciidoc[]
+
+include::Create_Real_and_Lasting_Change.asciidoc[]
+
+include::Stop_Worrying_About_Being_Agile.asciidoc[]
+
+include::Is_Someone_Running_Your_Agile_Project.asciidoc[]
+
+include::No_Blockers_No_Way.asciidoc[]
+
+include::Its_Not_Scrum_Its_You.asciidoc[]
 
 include::Balancing_Speed_and_Quality.asciidoc[]
-
-include::Rolf_Reitzig2.asciidoc[]
 
 include::Scrummaster_as_Servant_Leader.asciidoc[]
 
