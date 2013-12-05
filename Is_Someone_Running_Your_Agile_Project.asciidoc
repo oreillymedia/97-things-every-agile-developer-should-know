@@ -1,0 +1,3 @@
+== Is Someone Running Your Agile Project
+
+So, you’ve settling-in with the concepts of developing software in an “Agile” world, sprint-by-sprint. There’s a team of technically-qualified, cross-functional developers. The Scrum Master has a certification and has worked on “Agile” projects previously. The Product Owner has years of experience in the company and appears respected by the executive management. The line-up is pretty much in accordance to all the Internet articles, books and blogs you’ve read, about this modernized approach to software development.
