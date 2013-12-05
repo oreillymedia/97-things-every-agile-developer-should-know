@@ -62,9 +62,8 @@ Before you submit your request, make sure that you have:
 * Inputted your chapter. *Please include your name and title in the commit summary.* 
 * Run a spell check
 * Make sure it's 400-500 words in length
-* Add your name and a short biography
 * Check the formatting to make sure it looks OK
-* Click Commit Changes.
+* Add your name and a short biography
 
 Your biography should look like this:
 
@@ -79,6 +78,8 @@ Biography::
    Nicola Tesla is an inventor, electrical engineer, mechanical engineer, physicist, and futurist best known for his contributions to the design of the modern alternating current (AC) electrical supply system.
 ****
 ----
+
+* Click Commit Changes.
 
 ==== Submit a pull request
 
