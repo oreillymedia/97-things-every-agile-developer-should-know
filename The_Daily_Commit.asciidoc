@@ -1,0 +1,20 @@
+== The Daily Commit
+
+For new developers, the transition from programming-in-the-small (alone) to programming-in-the-large (teams) is not without its challenges. In order for you to succeed, you must quickly wrap your head around the fact that your teammates depend on you, and you must depend on them! Teams exist because groups of people can churn out more working code than individuals can, by iterating together, using each other's knowledge, and moving together towards a common goal. In order to help your team make progress, commit your code early and often!
+
+How early? How often? Daily!
+
+When you are working on a complex task, you probably touch many files, and alter the expected behavior of various functions in the system. Whether you like it or not, other people depend on you, so these changes have the potential to destabilize them. The longer you wait to deliver your changes, the more potential there is for breakage.
+
+Make changes incrementally, and deliver early and often, if possible. If not possible, such as for large refactoring tasks, or epic features, use source control branching. Check-in to your personal branch continuously so that your team can spy on your work-in-progress, or even load your code to evaluate impact.
+
+Frequent check-ins are also excellent for project management purposes. Your team leads, architects, and ScrumMaster can see that you're making progress on your work, and can review your code to ensure you're on the right track. It would be a shame to work hard on something for a week, and then have to throw it all out the window because you took a wrong turn in your design.
+
+We use source control systems so that we can be more collaborative, so it's shameful to develop in a local sandbox and not use the tools at your disposal. Commit your code daily!
+
+.About the Author
+[NOTE]
+****
+Name:: Rob Retchless
+Biography:: 
+****
