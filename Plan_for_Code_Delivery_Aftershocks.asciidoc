@@ -1,0 +1,27 @@
+== Plan for Code Delivery Aftershocks
+
+My home country is not by itself an earthquake prone region but we did get jolted every once a while with an echo of a truly damaging quake in the neighborhood. People who experienced earthquakes know that after the main event, a series of progressively smaller tremors are normal, indicating that plates are settling into a new stable state. They are called 'aftershocks' and even though they are not nearly as damaging as the real deal, they can rattle the frail nerves.
+
+As a team leader in various incarnations, I established the 'rule of aftershocks' as it is applied to software integration. It works with such a casual certainty that each time we had a snafu caused by a big code delivery, my team would shrug their collective shoulders and say 'yup, aftershocks'. This is how it normally plays out:
+
+. You work on a big, sweeping feature that touches a lot of files. It is very exciting, and it is going to be great, that is, when you finally finish it.
+. Weeks are passing by, you are working like mad. Your team mates are working too, delivering code changes into the repository. You are trying to keep up, frequently merging their code into your changes.
+. The code starts to burn a hole in your hard disk, begging you to release it already. You test and test and test, trying to leave no stones unturned.
+. Finally you deliver all 800 pounds of it. It immediately breaks the integration build because you forgot that it has a separate way of managing dependencies than unit test builds you were running. You fix that (#1).
+. Sanity test of the integration build fails because the database and/or the server software is slightly different than what you used. IT SHOULD NOT MATTER, you say, these are all APIs, but somehow it still fails. You find out what the problem is (grumble, grumble) and fix it. (#2)
+. The build is now deployed and people are starting to use it. They discover all kinds of glitches only real-life use can uncover. You are fixing like mad, trying to stay ahead of the bug reports as they pour in. (#3+)
+. After you fix all the obvious bugs, you get to the bottom of the barrel. People report mysterious, hard to diagnose and reproduce problems that seem to only happen every second Friday if it's a full Moon and you had tuna sandwich for lunch. (#4)
+. You forgo social life, family, natural light and even personal hygiene (if you work from home) trying to fix these maddening bugs. Eventually you do, after two milestones/sprints/whatever-you-use-to-measure-iterations. Phew.
+
+In the scenario above, your initial delivery of the code bomb counts as Event Zero, and I counted at least four aftershocks. Here is the maddening thing: it is really, really hard, if not impossible, to completely avoid them. No amount of testing and re-testing can spare you from them, it only affects their number and concentration. At some point your focus should be on minimizing their number, and ensuring they all occur early while the iron is still hot.
+
+OK, so aftershocks are like death and taxes, if you can't avoid them, why bother? Well, you should because they make you look bad as a developer or a team leader, and because you CAN do something about them. You simply need to gauge the size of the code you are about to release into the wild and leave the aftershock buffer in your plan. If somebody on your team is delivering a big code bomb, leave one iteration for aftershock management. If you expect an epic code bomb to drop, leave two iterations. And woe unto you if you allow a Fat Bastard sized code delivery on the last Friday of the last coding iteration. Aftershocks cannot be completely avoided, but they can be managed and planned for. A prudent team lead front-loads big deliveries, accepting aftershocks as a price of progress, knowing that chasing zero aftershock chimera leads to an overly conservative team. You don't want to become so afraid of breaking anything that it leads to the heat death of the project.
+
+As a side note, I would say that epic code bombs are themselves a problem - very few features require working in such large batches. Therefore, I would amend The Rule of Aftershocks to be: for a big code drop, plan one iteration aftershock buffer, and simply don't allow code drops that require more. This compromise strikes a nice balance between making progress and causing people at the receiving end of your bugs to hate you with passion.
+
+.About the Author
+[NOTE]
+****
+Name:: Dejan Glozic
+Biography:: 
+****
