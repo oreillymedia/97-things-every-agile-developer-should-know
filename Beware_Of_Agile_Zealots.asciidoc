@@ -1,0 +1,22 @@
+== Beware of Agile Zealots
+
+You know them when you see them coming... Crazy eyes, intensity oozing out of every pore, they are on a mission to convert the uninitiated, they have found religion. No, I’m not talking about that, I’m talking about AGILE zealots. These people are excited and they want everyone to know it! Now, to be fair, they have great intentions, but have lost the connection to the area in frontal lobe of their brain that is responsible for rational reasoning.
+
+One of my former teammates became a such a zealot and as far as I know may still be one today. I can remember all the conversations like it was yesterday.
+
+It was 2005, my teammate had just come back from training on Scrum, which was still in the early adoption phase of maturity. They had learned the basics of Scrum, and what stood out to this person was the concept of story cards. You would have thought this person just discovered the meaning of life. This person was passionate and was excited to implement this new approach. I wanted to harness all of this person's energy and help them find success and ultimately evolve the organization. This person had a Utopian and short sided idea of how Scrum should be implemented and was not very open to ideas that varied from their vision.
+
+Over the next weeks we had conversations about how to implement these ideas in our organization. Most of the conversation focused on tools, the rest on what would later be known as agile scaling. Our organization had well defined lifecycle processes and had automated it in our workflow management tools. Being the administrator of this tool, I wrapped my mind around it and determined that it would be quite feasible to automated the Scrum engine and add user stories into the tooling. In fact, by embedding it in the tooling that the organization had embraced, I thought this would accelerate the adoption and ease the resistance to change that would be encountered. The mere mention of tools to implement Scrum was tantamount to heresy. This person insisted that index cards were the ONLY way to create user stories, period, end of discussion. They referred to the first value stated in the Agile Manifesto, Individuals and Interactions over Processes and Tools.
+
+This person made the same mistake that many evangelists make, strict interpretation. When it comes to agile, strict interpretation directly conflicts with the very principles and spirit of the Agile Manifesto itself. The whole point is that agile is a change in the way organizations operate to deliver value to their customers faster, but does not profess a prescriptive methodology. In the same way, Scrum is a framework for agile development, but does not state the way in which it should be implemented. In fact, two of the values of Scrum are being open to discussing impediments to success and to respect each other and help each other become worthy of respect. How was shutting me down being open or respectful?
+
+As we adopt Scrum or other agile approaches we cannot forget the reason we are embracing a new approach. Every organization has different needs and will likely implement their version of agile differently. As Scrum has matured and the need for scaling in a large, or even medium sized organizations, it has become very apparent that tools must be employed to effectively scale agile and to provide the transparency that truly enables and accelerates the adoption of agile values.
+
+So watch for such zealots and commend them on their passion, but remind them that prescribing agile with a strict interpretation goes against the very philosophy that they are proselytizing.
+
+.About the Author
+[NOTE]
+****
+Name:: Matt Holitza
+Biography::
+****

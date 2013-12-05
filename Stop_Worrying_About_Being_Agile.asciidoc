@@ -1,0 +1,24 @@
+== Stop Worrying About Being Agile
+
+Tolstoy’s famous opening sentence in Anna Karenina, “Happy families are all alike; every unhappy family is unhappy in its own way,” could be reworded and applied to software projects. “Unsuccessful projects are all alike; every successful project is successful in its own way.”
+
+While this is not quite true—all projects are unique—there are just a couple of primary reasons why projects fail. Communication failures and the absence humility, respect, and trust among team members (1) account for a large portion of failed projects. These problems appear in failed projects whether the teams are Agile or not. Another big reason for failure comes from trying to fit a particular mold, whether that mold is Agile or has some other shape.
+
+We get caught up in labels and trends and attempt to make our teams’ work styles fit into someone else’s idea of what is successful. While it is great to have many different models to study, attend conferences and training sessions to hear how others have succeeded, the critical skill is the ability to analyze the experiences of others and synthesize a model that works for you, your team, and your current project. If you are truly Agile, you will continually reflect upon what you are doing and adjust the process to the context, not try to shoehorn your particular context into someone else’s view of the world.
+
+I spent a good part of my time several years ago as the “RUP Curmudgeon” for Rational Software, trying to help customers succeed with the Rational Unified Process. Customers who tried to take RUP and “just use it,” as if it were a manual on how to build a model airplane, invariably failed. Others who looked at it as a set of practices that worked in some context and then spent time reflecting on whether it would work in their current project’s context and what changes might be necessary often succeeded. The difference was that the successful teams did not worry about whether they were doing RUP. They focused on fitting some of the RUP practices to their project.
+
+Today we see organizations and teams adopting the latest Agile methodologies in much the same way that organizations tried to adopt RUP fifteen years ago. They are looking for that silver bullet that simply gives them a set of steps to follow and will guarantee success. They worry about whether their team is really doing Scrum, Lean, Kanban, and so on properly. Are they doing the stand-up meetings correctly? Do they have the right form for their user stories? They are more concerned about form rather than function and utility.
+
+It really does not have to be this way. If you have competent team members, give them the knowledge and training so that they understand the different practices, and then give them the ability to develop a working process for their team, on the particular project, at that time, they will succeed in their own unique way. Trust them to do the right things and then get out of their way. Don’t worry about whether they’re Agile or not. Worry about whether they’re successful. David Hussman, an Agility coach once tweeted the following about Agile. I keep it in a place that I often go to for inspiration and ideas. I think it is a good way to end this chapter:
+
+"Some of the best success and real flow of value happens at the point when people stop prepending everything with the word Agile"
+
+.About the Author
+[NOTE]
+****
+Name::
+Gary Pollice
+Biography::
+Professor of Practice, Computer Science, Worcester Polytechnic Institute
+****
