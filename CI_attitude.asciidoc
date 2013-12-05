@@ -1,0 +1,44 @@
+== Continous Integration is an Attitude, Not a Tool
+
+There's really only one thing that matters for continuous integration. Too bad it's the piece that continuous integration tools get wrong.
+
+Let me take you back to the mid-nineties. Armies of programmers slaved in the bowels of enterprise, chained to The Almighty Process. The Almighty Process was a thick row of binders, specifying exactly how and when the work must be done. And one thing The Almighty Process said was (§15.6.d.1) smart people would design the software and divide it up into lots of pieces; (§15.6.d.2) armies of slaves would program those pieces; (§15.6.d.3) the pieces would then be integrated; (§15.6.d.4) and lo, it would be good. (§15.6.d.5) Or else.
+
+Except that it wasn't ever good. Integration was hell. It could take weeks, or months. I remember a small program--just five programmers--that took several weeks to integrate at the end of a multi-year development cycle. This was the first time anyone had every tried to run the thing. When we finally got the software working, it was a disaster. It had major architectural flaws that consumed 75% of the CPU in interprocess communication. Only a complete rewrite would fix it. The software was scrapped and the team disbanded.
+
+This is the fetid environment that bred continuous integration. As with many of Agile's engineering practices, it was born from Kent Beck, Ron Jeffries, and Ward Cunningham's work on Extreme Programming. In Extreme Programming, if a thing was good, it was worth doing harder. And if a thing was hard to do, it was worth doing more. That's the philosophy that made Extreme Programming extreme.
+
+Integration was both good and hard. It was worth doing *all the time*.
+
+"Okay, sure," you say. "That's what our CI server is for. It integrates our code for us and let's us know when things break."
+
+Actually... no. Your CI server runs your automated build. It doesn't integrate.
+
+Integration was the last step before shipping. You plugged all the pieces together and made sure they worked as a whole. If they did, you confirmed the software met its business requirements and shipped it.
+
+In other words, integration is done when the business folks are allowed to say "ship it."
+
+So continuous integration is about being able to say "ship it" *at any time*. Back in the day, before CI servers, one team had their automated build burn a install CD every time they integrated. When the business folks said "ship it," they handed them the top CD. Done.
+
+("Continuous deployment," continuous integration's big brother, cuts out the middleman. Rather than burning a CD, you actually ship--that is, deploy to production servers--every time you integrate.)
+
+There's only one thing that matters in continuous integration: your software is ready to ship, with all the latest work of your team, every few hours. No tool can accomplish that for you. Instead, your team must agree to two things:
+
+. We will maintain a master repository (or branch, or what-have-you) that always contains the latest known-good, ready to ship product.
+. We'll each merge that repository is always ready to ship. It's always known-good. There's no such thing as an integration build failure...because the build is integrated and tested *before*, it's promoted to the master branch.
+
+Note the order there. The master repository is always ready to ship. It's always known-good. There's no such thing as an integration build failure... because the build is integrated and tested *before* it's promoted to the master branch.
+
+It's a small thing. Tiny, really. But that small thing means so much. You never get another email saying the build is broken. You never wonder if your tests are failing because of someone else's check-in. You never stay late, struggling to fix a failing build that's holding everyone up.
+You'll just develop, solve problems, and integrate, secure in the knowledge that any code you pull down is known-good and ready to ship.
+
+Oh, it's not easy. You have to have a fast, thorough, automated build and test suite. But it is incredibly valuable. And you can do it now. Just test your code after integrating it, preferably on a different computer than your own, *before* making it available to everyone else.
+
+There's really only one thing that matters in continuous integration: your software is always ready to ship. The tool is nothing. The attitude is everything.
+
+.About the Author
+[NOTE]
+****
+Name:: James Shore
+Biography::
+****
