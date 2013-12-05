@@ -14,7 +14,15 @@ include::Dont_Write_Smart_Code.asciidoc[]
 
 include::Create_Real_and_Lasting_Change.asciidoc[]
 
+include::The_Daily_Commit.asciidoc[]
+
+include::CI_attitude.asciidoc[]
+
 include::Stop_Worrying_About_Being_Agile.asciidoc[]
+
+include::Plan_for_Code_Delivery_Aftershocks.asciidoc[]
+
+include::Role_Of_Visionary_On_Agile_Teams.asciidoc[]
 
 include::Is_Someone_Running_Your_Agile_Project.asciidoc[]
 
