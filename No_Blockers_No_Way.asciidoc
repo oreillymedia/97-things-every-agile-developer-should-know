@@ -1,0 +1,25 @@
+== No Blockers? No Way!
+
+That familiar utterance of "No blockers" in the daily standup is a lie every single time it is spoken. Don't kid yourselves people! Speak up about blockers, even if they're not impeding the items that you're currently focused on, so that your ScrumMaster can help clear the path for you.
+
+On a high performing agile team, every team member is blocked by someone every single day, waiting patiently for that feature that they depend on, so that they can commit something that someone else depends on. You are blocked, but you are able to stay productive because you're an awesome developer who knows how to keep code flowing from your fingertips. Even though you're still being awesome, lying about the things you are blocked on will not help your team be greater than the sum of its parts.
+
+It is very important that you make your team aware of the items that you are on the hook to deliver in a given iteration but are unable to make progress on due to a dependency that is not yet satisfied. It is your duty to bring it up each and every day. The squeaky wheel gets the grease, and the daily standup is your opportunity to squeak. So squeak!
+
+* *ScrumMaster:* John, you're up!
+* *John*: I'm making great progress on Task X, but I am blocked on Task Y while I wait for Task Z to be completed.
+* *ScrumMaster:* Joe, how are things progressing on Task Z?
+* *Joe:* I haven't started Task Z because I'm working on Task W, which is my highest priority item. It will be another few days before I can get to Task Z.
+* *ScrumMaster:* Since John's Task X is his highest priority item, let's reprioritize Task Z to the top of your stack. You should have plenty of time to deliver Task W you have delivered a first cut for John.
+* *John:* Will do!
+
+This "on the fly" reprioritization would not have happened had you kept quiet on the fact that you could not start on Task Y. Sure, you're making excellent progress on Task X, but by the time you're able to make progress on Task Y, there might not be enough time left in the iteration, and you'll be stuck explaining your epic fail in the sprint retrospective.
+
+In your daily standup, if you feel the urge to say "No blockers", resist it! You're blocked on something that you have committed to, so speak up about it.
+
+.About the Author
+[NOTE]
+****
+Name:: Rob Retchless
+Biography::
+****

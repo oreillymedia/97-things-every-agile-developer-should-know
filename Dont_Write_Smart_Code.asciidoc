@@ -1,0 +1,25 @@
+== Don't Write Smart Code
+
+Throughout my career in software industry, I got to see ideas that seemed clever at the time turn out not as clever in hindsight. This became such a pattern that I eventually crystallized it as my 'dumb code good, smart code bad' law. Note that by saying 'dumb code', I don't mean 'bag of hammers' dumb. Just ordinary, by the book, consistent, easy to read, following the good practices, as simple as possible code.
+
+Software developers like to think of themselves as smart (actually smarter than most people). Ever since all the sorting algorithms have been invented and CSc departments banned any new submissions, a future software developer cannot go through university without writing a compiler or three. And the new languages they invent need to be quirky and different (Scala anyone?).
+
+When software developers join companies, they carry over their taste for indie code practices to the production code they start writing. Let me count the ways why their code ends up causing headache to everybody:
+
+. *Using code to impress.* Developers sometimes feel they need to prove themselves, and code seems to be a great way to show 'them' what they are capable of. This means passing every opportunity to use the simplest solution that does the job.
+. *Local solution for a global problem.* Without control over the project as a whole, developers tend to try to fix a problem locally. Local solutions only address that one instance, create inconsistencies, and will be a burden at some point in the future when the fix of the global problem is attempted.
+. *Nobody understands your code.* Clever code is by definition unusual, needs some time to digest, and is often incomprehensible to everybody including the author after a month (at most). Since code lives forever, this particular corner will be avoided at all costs by poor developers assigned to maintaining it, it will be worked around and eventually yanked in frustration.
+. *Smart code is hard to optimize.* Straightforward code responds well to automated optimization and refactoring. Compilers are more likely to automatically speed up code that does nothing strange or crazy. As said in (2), it is easy to make a sweep through the entire project if all the code that needs to be visited is easy to understand.
+. *Smart code is buggy.* Seinfeld observed that ‘sometimes the road less traveled is less traveled for a reason’. Smart code is attempting something novel and unusual, and as such there are always some rough edges to smooth out, necessitating frequent revisions. Novel and unusual algorithms and approaches typically look great during a coffee-fueled all-nighter, but often require a lot of tuning to work well in production.
+. *Smart code gains are ephemeral.* Smart code is often smarter than it needs to be because there was a problem with some browser or OS version. Chances are that code will outlive its purpose soon after the next browser/OS update. I am not saying you should never write this kind of code (search all the occurrences of IE-related comments in Dojo), but it is prudent to clearly mark it and make it easily defeatable when it outlives its purpose.
+
+Lest this story sounds as a criticism of 'them' whereas 'we' are different, I am writing it from a position of somebody who has been there, done that and bought the T-shirt. I am trying to convey a hard-earned realization caused by writing smart code, feeling smug about it, forgetting how it works, hitting a problem after problem later and eventually yanking it with a sigh of relief when the new version of a library or browser made it unnecessary. The reason more seasoned developers are less likely to do it is because they had enough time to see the entire cycle, not just the initial buzz that smart code brings. In situations where writing smart code is inevitable, realize that you are fixing a temporary problem, cordon off the code, mark it clearly and keep an eye on the earliest opportunity to dump it without mercy (which requires that you avoid becoming personally attached to that code, otherwise you will feel like you put your favorite puppy to sleep).
+
+You could say that smart code is a drug - it brings euphoria when you write it, but you pay the dire price down the road. Therefore: don’t write smart code – for your well being and for the well being of the project.
+
+.About the Author
+[NOTE]
+****
+Name:: Dejan Glozic
+Biography:: 
+****

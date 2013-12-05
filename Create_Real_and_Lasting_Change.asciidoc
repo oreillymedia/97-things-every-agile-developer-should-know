@@ -1,0 +1,73 @@
+== How to Create Real and Lasting Change
+
+As a developer you're probably well aware that there's a better way to do many things in your organization. Because you are on the front lines of product development you acutely feel the effects of the dysfunction in other departments and undoubtedly see things others don't.
+This is why most Agile transformations I've seen start with agitation from the people actually building the product.
+
+If we think of an organizations as an organism the pain the development team feels—and the subsequent loss of business performance the organization notices—is the proverbial thorn in the paw that finally creates an opening for an organization to ask for help and make a change.
+The challenge you face however once you wade into a change of process is that what you're up to defies logic, doesn't move in a linear path, and is more about a shift of culture than it is about any specific practice you may want to change.
+
+The Thigh Bone's Connected to the Leg Bone Not only are your products complex with each technical decision having far-reaching impacts on scalability, stability, extensibility, and more. But your organization is complex as well. And the most important algorithms that govern the behavior of our businesses are poorly understood, poorly documented, and so mysterious that even the inmates running the asylum often don't know what to do to make real change.
+
+For instance, one of the most common anti-patterns I see in organization is the heroin-like dependency on big up-front requirements definition and multiple layers of approval for these requirements.
+
+I frequently work with teams to install a just-in-time, collaborative flows for the elaboration of requirements. This is something foundational to organizational agility and whose value I can demonstrate to almost anyone with a few pennies and some balls of paper—e.g. by teaching the penny-flip and ball-point games. And yet I'm frequently thwarted because the team at hand does not have the autonomy to finalize requirements AND they are locked into explicit (or implicit and hidden) development phase gates.
+
+This problem might seem simple on the surface. All we need to do is get those people to give us some autonomy and get the heck out of the way so we can do our darn jobs. But peeling this onion reveals layer upon layer of messy human stuff.
+
+There's the product manager, dev lead, and project manager who are wondering what their job actually is if they are not signing off on each layer. There's the paper trail that management requires—but no one reads. There are auditors to satisfy and funding to secure for each project.
+
+And there's the development team that, having spent the last several years working in a command and control environment finds it spooky and unsafe to take responsibility.
+
+Dysfunction is Baked In The truth is that most of our organizations have fear and a lack of accountability at the core of their culture. "command and-control" is just a nice way of saying "my way or the highway" and managing with implied threats and seeking compliance out of fear.
+
+If we are to change our process and really start doing things iteratively, incrementally, and with front-line responsibility for quality, we must wade into the strange waters of the human psyche. As we do so we are going to agitate the organizational antibodies that always seem ready to attack any threat to the status quo.
+So we start by saying "let's change the way we do things around here" and eventually find ourselves wrestling with sticky questions of identity. We move from doing something different to being something different. This is not a bad thing, this flow from doing to being. It's actually one of the only means of change that actually works. Where we run into trouble is if we work to change and don't anticipate the messy human stuff coming up.
+
+One of the most demonstrably effective forms of psychological therapy is Cognitive Behavioral Therapy that starts with behavior and uses this as a lever to change the way an individual feels. The focus of the behavioral therapist is on helping the individual do the things they want to do and then manage the feelings that arise as they do the new behavior or quit the old one. Therapies that focus on creating the right feelings first are, ironically, far less successful at creating sustainable changes in the way people feel.
+Agile is a kind of behavioral therapy for an organization. You change the habitual behaviors of the org and the mood of the organization improves over time. This is why I believe morale is a Key Performance Indicator. As my colleague Jean Tabaka has said "there are only two things worth measuring: employee satisfaction and customer satisfaction. And if you have to choose, start with your employees."
+
+This morale improvement is not a direct line often and there will be trouble along the way as individuals resist, but if we keep coming back to the behaviors and what we can do to install them the more successful we'll be in our transformation efforts.
+
+In many ways Agile practices are similar to an install application your organization can run to create a new culture. Individual tools, practices, and roles are just a way to get your organization to default towards values like trust, autonomy, and collaboration in interacting with each other and with customers. And these values are the heart of real organizational agility.
+
+Installing New Behaviors So if what we are up to is changing behavior we need to have a clear understanding of how new behaviors come about on a social and psychological level. And there is great news for us. Much of the mystery of these sometimes-messy topics has been removed by recent research. For many years I've been studying personal and organizational change systems, reading the latest psychology and sociology of change, and watching closely what works and what doesn't work in the companies I work with.
+
+Through this process I've come to recognize certain first principles of change. Once you understand these principles and are aware of the order of operations they must happen in, you'll be well prepared to get change going in your organization. These basic principles show up again and again in change methodologies and once you know them you'll see them everywhere.
+
+I call these change principles The Turn and there are 3 distinct steps:
+
+* Step 1: Crisis If you've been part of a deep personal or organizational change you've no doubt noticed that the change is always preceded by crisis. The Challenger disaster of 1986 ushered in some deep process changes at NASA and government contractors. These changes had been asked and agitated for by engineers and leaders for years but until the disaster there was, tragically, insufficient organizational will to actually make the change.
+
+Likewise when Salesforce began their Scrum-at-scale experiment a few years ago it was because they recognized a deep and looming economic crisis in the organization. And this story is repeated in almost every transformation I've worked on.
+
+There are well-documented psychological reasons why crisis is needed. Essentially it boils down to the idea that overwhelming current thought and behavior patterns creates opportunity for new patterns to take over. We simply aren't wired to be in deep uncertainty for too long and these states create an opportunity for individuals and organizations to expend the energy—financial, political and emotional—that real change requires.
+
+This doesn't mean that your organization needs to be on the precipice of failure to make change. A crisis is just a visible problem, so you're job as someone agitating for change is to make the cost of the current problem as visible and palpable as possible.
+
+If you're change has stalled or isn't taking hold you likely need to return to this principle and see what you can do to make the need for change palpable and obvious to all.
+
+* Step 2: Vision You've probably noticed that while change is always preceded by crisis, not all crises create change. In fact far from it. The difference between a crisis that creates change—a breakthrough—and a crisis that destroys an organization—a breakdown—is the presence of a vision.
+
+Most people when faced with a discrepancy between what they have and what they want will most of the time choose to rationalize. This is the cheapest way for an individual or group to deal with the discomfort. Meaning it takes the fewest psychological or organizational resources. It may seem incredibly non-sensical but from an evolutionary perspective it makes sense—risk aversion even to the point of illogic is more likely to ensure survival than risk taking. The trouble is one can survive for a long time in discomfort, what we want is to thrive.
+
+Behavior change is expensive and for us to embark on. It means we need to have a vision that things might possibly get better. And this means a solid vision of where we might go, what things might be like, and what it will take to get there.
+
+In 12-step programs like Alcoholics Anonymous there is an emphasis on individuals telling their stories of: what it was like (the situation), what happened (the crisis), and what it's like now (the solution). These stories are crucial for inspiring others to stay on the path of change, or even choose it in the first place.
+So your next job once you've made the cost of the current situation clear is to paint a clear and compelling vision of what may be. This usually involves big-win future visions as well as near term, it-won't-cost-too-much tactical plans. Though for the sake of inspiration these plans should be kept vague otherwise you might jump into the weeds which is not where you want to be at this stage.
+
+* Step 3: Make a Change Once you've made the cost of the current situation clear, and painted a vision of the future, your next job is to actually make a change. We need to choose new behaviors that the organization can begin to adopt to take a real and visible step towards the new vision.
+
+There is danger here of both doing too much or too little. Too many changes all at once, with insufficient momentum, and the organizational antibodies will attack and destroy the new change—often in very subtle ways that are hard to trace back to a source or individual. Too few changes and you won't realize the short-term small wins that are so crucial in building wide support for a new program.
+
+A skilled coach is invaluable at this stage and will help you map out the boundaries of the program to be changed, clearly articulate success metrics, and define what changes individuals will need to make. The trick is to pick changes big enough to make a real difference and create some visible success but small enough that you're not betting the entire farm which tends to create fear and resistance. The perceived size of the crisis will dictate the extent of the change you can take on.
+
+Be prepared to make mistakes at this stage and keep yourself flexible and experimental. The experimental mindset is the most valuable attitudinal change your organization can make and this starts with you.
+
+Good luck on your journey and if you want to read more deeply about change check out: http://bobgower.com/my-favorite-books-on-change-and-transformation/ for my favorite resources on the topic.
+
+.About the Author 
+[NOTE]
+****
+Name:: Bob Gower
+Biography:: 
+****
