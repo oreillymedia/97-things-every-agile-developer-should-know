@@ -1,0 +1,40 @@
+== Lifelong Learning
+
+You think you're done learning, as you've finished school or university or worked in the field for 20 years? No way. I can assure you, the journey has just begun.
+
+Most people think, that software development is just about writing code, but we know better. It is much more
+than that. Acquiring enough knowledge about the domain, the use-cases and problems at hand, is crucial for
+writing that code. After all code is just executable knowledge, automating things that you would do manually
+otherwise.
+
+In the end, the code is not what counts. Imagine starting the same project you just did with a blank slate but
+with everything you've learned in your head, every dead end hit, every bug fixed, every night spent. How
+much time would you need now to solve the same challenge again? Half? A third? Even less? Much of the
+time we spend on a software project is used to learn how to solve a problem or get enough insight to continue.
+Dan North even makes this explicit - he calls this approach "deliberate discovery". Know what you don't
+know but need and do something about it. And make learning an explicit part of your daily development
+process.
+
+I think being conscious about learning new things, embracing new insights and epiphanies is important for
+having a great work life. I for myself feel that every day, that I didn't learn something new is a lost day. So regardless if it is something about the domain, an interesting pattern, computer science algorithms, a new tidbit about a programming language, new libraries or frameworks or just a new insight on how people work (that's the most challenging one), all of these contribute to having a great day. If you make learning an explicit part of your daily work you are much more aware of it and it doesn't become just an implicit side-effect. That will also make it much easier to convey the information to others. After all you just gained the knowledge, so it is very fresh on your mind how you did that. Telling someone else is just re-living your current learning. No need to dig out the information from the depths of your unconscious implicit memory where it is encoded in your experiences.
+
+It doesn't stop there, learning for oneself is helpful but sharing is even more rewarding. So make it a habit to tweet, write blog posts, answer on the Stackoverflows about the small new insights you've gained. From there you can take one step at a time and start to contribute articles to other sites, magazines or even look into writing a book.
+
+There really cool things about sharing what you've learned. First of all it is very rewarding to have other
+people read and like your musings. Even better if your publications are really helpful and allow them to take
+shortcuts in finding the relevant information. But the best thing is, that while writing you revisit the topic, are forced to take an outsiders perspective and think more deeply about it. Writing about something you don't know is also a great way of getting started with learning about it.
+
+If you are not so comfortable writing or think other ways are more effective - talking about your experience is an even better way to get your message across. Again, start small, easiest is to just record a screencast, put it online and share it. Screencasts are a cost and time effective way of creating a "live" presentation, and much better if you want to show code.
+
+You can start presenting with your friends, the colleagues in your team or local user-groups. When you are
+more comfortable, don't hesitate to reach out to other events or conferences. Most of them are happy to accept
+new speakers with interesting topics. 
+
+You can find a great collection of patterns on becoming a better developer in the "Apprenticeship Patterns" O'Reilly book by Dave Hoover and Adewale Oshineye and Andy Hunt: "Refactor your wetware".
+
+.About the Author
+[NOTE]
+****
+Name:: Michael Hunger
+Biography:: 
+****
