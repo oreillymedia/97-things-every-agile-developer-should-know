@@ -1,6 +1,6 @@
 == Three Steps of a Change Agent 
 
-Welcoming Reality - The Furious Indifference to Our Cause
+*Welcoming Reality - The Furious Indifference to Our Cause*
 
 For all my talk, I weekly come back to the question "So how do we put this into effect here where I work?" It
 is not uncommon for those in IT to rarely see the ideal solution, method or process actually put into practice.
@@ -8,7 +8,7 @@ is not uncommon for those in IT to rarely see the ideal solution, method or proc
 Recently I've seen the confluence of, at first glance, unrelated items. When seen holistically, though, these
 items point to what I feel is at the heart of leading change in the workplace.
 
-You Need to Fight, but Fight Right
+*You Need to Fight, but Fight Right*
 
 _"A soldier surrounded by enemies, if he is to cut his way out, needs to combine a strong desire"_
 
@@ -39,7 +39,7 @@ people. We are interdependent in all but the smallest IT organizations. And it i
 relationships with these people (and their attitudes, beliefs, understanding, motives, agendas) that are
 principally the challenge.
 
-If You Want a Queen, You Have to Be a King
+*If You Want a Queen, You Have to Be a King*
 
 There's a saying in courtship that if you want a Queen, you have to be a King. This means that if we want a
 certain reality, we have to be the type of person deserving of that reality. We have to be a person of character if we are to expect a working environment where there is good, healthy interdependence and commonality.
