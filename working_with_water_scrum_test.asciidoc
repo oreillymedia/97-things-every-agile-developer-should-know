@@ -1,0 +1,48 @@
+== Working with Water-Scrum-Fall
+
+Agile is the de-facto software development approach in our industry, but how many times have you heard.
+‘Yes, we are doing Agile, but we need to have a detailed plan up front, after all how else would we get
+funding…. And of course we don’t release software to our customers frequently; they don’t want to be
+bothered with frequent software releases… But we are doing Agile.’ The reality of software delivery is that
+one team adopting Agile does not change the whole organization and most organizations operate in a world
+that puts Agile in the middle of a large, often complex sequential flow based process. The reality for most
+software development teams is ‘water’, where requirements and details plans are done, ‘scrum’, where Agile
+teams deliver software in sprints applying many of the best practices of Agile and ‘Fall’ where the software
+delivered by those teams piles up waiting for a release organization to deliver the software into production.
+The reality is water-scrum-fall.
+
+The result of water-scrum-fall is a disconnect between the Agile teams and the rest of the organization which
+at best means waste creeps into the Agile process and at worst the Agile team either resorts to more traditional practices or the key members leave the team and the company. It is therefore crucial that Agile practitioners need to both accept the reality of water-scrum-fall and put in places practices that allow their Agile practice to not be undermined by the reality of modern organizational planning and management.
+
+The best place to start with is release / operations, or fall part of the process. For many large organizations releasing software is the exception, not the norm. Releasing software is risky, costly and takes time and effort. The practices of release management are not only complex, but have serious cultural support and history within the organization. Bottom line they are hard to change and the people who would need to change are people in charge and thus have a vested interest not to change. So instead of fighting an all-out war with this group remove some of the waste associated with the release by getting software into the hands of the customer earlier. Introduce the idea of a limited user release, or beta program and deliver the software into a carefully managed, low risk environment. By getting the software to the customer earlier, even in a limited fashion not only do you fulfill your Agile responsibilities of getting feedback earlier, you also help operations reduce risk and increase their visibility. Assuming that quality is not a problem, and the customer likes getting software early over time the early preview process will become the norm and the line between production and early preview will blur. The other key benefit of slowly moving to an Agile release cycle is you get to test the practices and processes for releasing software frequently. Not only should early preview approaches deliver working software to customers frequently they should follow the standard release practices, using automation and standard testing practices. By trying to follow the standard release practices you will highlight weaknesses in the process and will often have to introduce more and more automation. Which then will be slowly be adopted throughout the release processes.
+
+After introducing more feedback at the end of the process and slowly solving the scrum-fall problem the next
+area to focus on is planning and requirements, or the water part of the process. Now unfortunately, the water
+part of water-scrum-fall is the hardest to change. It is hard for the Agile team member to argue with the
+management and their need to justify budgets up front. And Agile change agent is often challenged when
+asked ‘what do you mean you can’t tell me how much it is going to cost. I thought we were paying you for
+your expertise’. Instead of trying to justify a fundamental change to the practices of project estimation and
+financial planning you should start introducing some Agile planning ideas up front and encourage the team to capture clear measures throughout delivery that then can be used, in concert with the Agile planning ideas to
+provide evidence that traditional approaches do not add value and actually end up setting unrealistic
+expectations with the customer. Thus add Agile planning and reporting techniques on top of your traditional
+planning model. It is a great way of proving the value whilst not adding too much change for the upper
+management. And, the comparison makes for great presentations at conferences. One such technique is
+Story Points. By capturing the scope of work in the form of story points as well as more traditional estimates
+and sizing models it is then possible to measure the velocity of the Agile times. By demonstrating how story
+points combined with velocity provide a great way to both estimate the project and manage its status
+management will slowly remove the duplicate estimates and over time only produce enough requirements up
+front to answer the question of how many story points a requirement entails. Duplicating estimation techniques
+sounds like a huge overhead, but if you make the process fun and highlight its value both the team and the
+management will buy in to it – even if the first time they are just doing it to keep the mad Agile person happy.
+
+After focusing on water-scrum and water-fall you are slowly making Agile change from team based Agile to
+enterprise Agile and driving the benefits of Agile into the organization. By accepting the reality of waterscrum-fall you take control of not just your teams use of Agile, but where the team connects with the other parts of the organization incrementally reducing waste and ultimately increasing value. And as my
+grandmother says ‘slowly, slowly catch the monkey’ – change takes time and often requires compromise, even
+if you think the other parts of the organization are just being stupid you have to help them change slowly.
+
+.About the Author
+[NOTE]
+****
+Name:: Dave West
+Biography:: Chief Product Officer, Tasktop
+****
