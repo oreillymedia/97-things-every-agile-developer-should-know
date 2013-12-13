@@ -12,13 +12,21 @@ include::Beware_Of_Agile_Zealots.asciidoc[]
 
 include::Dont_Write_Smart_Code.asciidoc[]
 
+include::lifelong_learning.asciidoc[]
+
 include::Create_Real_and_Lasting_Change.asciidoc[]
 
 include::The_Daily_Commit.asciidoc[]
 
+include::working_with_water_scrum_test.asciidoc[]
+
+include::Dont_Get_Attached_to_Code.asciidoc[]
+
 include::CI_attitude.asciidoc[]
 
 include::Stop_Worrying_About_Being_Agile.asciidoc[]
+
+include::3_Steps_of_a_Change_Agent.asciidoc[]
 
 include::Plan_for_Code_Delivery_Aftershocks.asciidoc[]
 
